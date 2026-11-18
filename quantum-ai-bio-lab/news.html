@@ -69,7 +69,7 @@
         <li><time datetime="${esc(n.date || "")}">${md(n.date)}</time>
           <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`).join("")
         || '<li><span></span><span class="note">소식을 불러오지 못했습니다.</span></li>';
-      if (k && k.updated) document.getElementById("kqbs-updated").textContent = "매일 아침 자동 수집 · 업데이트 " + fmtDate(k.updated);
+      if (k && k.updated) document.getElementById("kqbs-updated").textContent = "매주 갱신 · 업데이트 " + fmtDate(k.updated);
     });
     Promise.all([loadJSON("data/news.json"), loadJSON("data/quantum-news.json")]).then(([lab, q]) => {
       document.getElementById("lab-news").innerHTML = (lab || []).map(newsItem).join("") || '<p class="empty">아직 소식이 없습니다.</p>';
