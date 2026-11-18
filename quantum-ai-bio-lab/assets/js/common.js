@@ -74,13 +74,23 @@ function fmtDate(d) {
 const keywords = (list) => list && list.length
   ? `<div class="keywords">${list.map((t) => `<span>${esc(t)}</span>`).join("")}</div>` : "";
 
+// 양자 연구 동향: 영어 원문(매일 자동 수집)에 한국어 번역(매주 수동 갱신)을 글 주소로 합칩니다.
+async function loadQuantumNews() {
+  const [q, ko] = await Promise.all([loadJSON("data/quantum-news.json"), loadJSON("data/quantum-news-ko.json")]);
+  if (!q) return q;
+  const map = (ko && ko.items) || {};
+  q.items = (q.items || []).map(n => map[n.url] ? { ...n, titleKo: map[n.url].title, summaryKo: map[n.url].summary } : n);
+  return q;
+}
+
 function newsItem(n) {
+  const title = n.titleKo || n.title, summary = n.titleKo ? n.summaryKo : n.summary;
   return `<article class="row">
     <time class="when" datetime="${esc(n.date)}">${fmtDate(n.date)}</time>
     <div>
-      <a class="title" href="${esc(n.url || "#")}"${n.source === "lab" ? "" : ' target="_blank" rel="noopener"'}>${esc(n.title)}</a>
-      ${n.summary ? `<p>${esc(n.summary)}</p>` : ""}
-      <div class="meta"><span class="src">${esc(n.sourceName || n.source)}</span></div>
+      <a class="title" href="${esc(n.url || "#")}"${n.source === "lab" ? "" : ' target="_blank" rel="noopener"'}${n.titleKo ? ` lang="ko"` : ""}>${esc(title)}</a>
+      ${summary ? `<p>${esc(summary)}</p>` : ""}
+      <div class="meta"><span class="src">${esc(n.sourceName || n.source)}</span>${n.titleKo ? ` · <span class="orig" lang="en">원문: ${esc(n.title)}</span>` : ""}</div>
     </div>
   </article>`;
 }
