@@ -1,4 +1,165 @@
 {
- "updated": null,
- "items": []
+ "updated": "2026-11-18T06:40:03+00:00",
+ "items": [
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "IQM and AMD Demonstrate Reproducible Hybrid QPU-GPU Chemistry Workflow Using ROCm",
+   "summary": "IQM Quantum Computers and AMD have successfully demonstrated a hybrid quantum-classical computational chemistry workflow. This workflow utilizes IQM's 20-qubit Garnet processor and AMD Instinct GPUs with ROCm software to perform molecular ground-state energy…",
+   "url": "https://quantumcomputingreport.com/iqm-and-amd-demonstrate-reproducible-hybrid-qpu-gpu-chemistry-workflow-using-rocm/",
+   "date": "2026-11-18T02:33:38+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "IQM Researchers Benchmark Projected Quantum Kernels Across 45 Qubits Using Cross-Device Referee-Challenger Protocol",
+   "summary": "IQM Researchers have successfully benchmarked projected quantum kernels across 45 qubits using a cross-device referee-challenger protocol, demonstrating a significant advantage over classical models in quantum machine learning tasks. Their study, conducted on…",
+   "url": "https://quantumcomputingreport.com/iqm-researchers-benchmark-projected-quantum-kernels-across-45-qubits-using-cross-device-referee-challenger-protocol/",
+   "date": "2026-11-18T02:18:11+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "IQM Announces Zero-Downtime Upgrade Program for Halocene Product Line Scaling Past 1,000 Qubits",
+   "summary": "IQM Quantum Computers has launched a zero-downtime upgrade program for its Halocene quantum error-correction product line, enabling a seamless transition from 150-qubit processors to systems exceeding 1,000 qubits. This program, designed for HPC and…",
+   "url": "https://quantumcomputingreport.com/iqm-announces-zero-downtime-upgrade-program-for-halocene-product-line-scaling-past-1000-qubits/",
+   "date": "2026-11-18T01:41:51+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Unitary Foundation Releases 2026 Quantum Open Source Survey Covering SDK Adoption, Hybrid HPC Workflows, and AI Tooling",
+   "summary": "The 2026 Quantum Open Source Survey, with over 1,800 respondents, reveals key trends in quantum software adoption, hybrid workflows, and AI tooling. Qiskit leads in SDKs, IBM Quantum in cloud services, and Anthropic Claude Code in AI assistants. The survey…",
+   "url": "https://quantumcomputingreport.com/unitary-foundation-releases-2026-quantum-open-source-survey-covering-sdk-adoption-hybrid-hpc-workflows-and-ai-tooling/",
+   "date": "2026-11-18T01:22:45+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Classiq Collaborations with Shionogi, KDDI Research, and SoftBank Earn Awards in Japan’s NEDO Quantum Challenge",
+   "summary": "Classiq announced that three joint research initiatives with Shionogi, KDDI Research, and SoftBank received awards in Japan’s NEDO Quantum Computing Challenge. These projects utilized Classiq’s Qmod and evaluated hardware execution and fault-tolerant resource…",
+   "url": "https://quantumcomputingreport.com/classiq-collaborations-with-shionogi-kddi-research-and-softbank-earn-awards-in-japans-nedo-quantum-challenge/",
+   "date": "2026-11-18T01:01:17+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Planckian Selected for €10 Million ($11 Million USD) EIC Accelerator Blended Finance Package to Scale Shared-Control Superconducting Processors",
+   "summary": "Planckian, an Italian superconducting quantum hardware developer, has been selected for the European Innovation Council (EIC) Accelerator, securing €10 million ($11 million USD) in blended financing. This funding will support the development of their…",
+   "url": "https://quantumcomputingreport.com/planckian-selected-for-e10-million-11-million-usd-eic-accelerator-blended-finance-package-to-scale-shared-control-superconducting-processors/",
+   "date": "2026-11-17T23:50:37+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "IQM Introduces Upgrade Programme for Halocene Quantum Systems",
+   "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in integrated quantum computing, today announced an upgrade program for IQM Halocene, its error-correction product line, that gives customers a path from the 150-qubit…",
+   "url": "https://thequantuminsider.com/2026/11/17/iqm-halocene-quantum-systems-upgrade-programme/",
+   "date": "2026-11-17T19:34:26+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QUDORA Integrates NVIDIA CUDA-Q into Qamelion Emulator and Launches German-Funded QUANDA HPC Energy Consortium",
+   "summary": "QUDORA Technologies has integrated NVIDIA CUDA-Q into its Qamelion emulator, allowing developers to execute hybrid quantum-classical workflows and benchmark circuits under realistic trapped-ion noise. Additionally, QUDORA launched the QUANDA consortium, a…",
+   "url": "https://quantumcomputingreport.com/qudora-integrates-nvidia-cuda-q-into-qamelion-emulator-and-launches-german-funded-quanda-hpc-energy-consortium/",
+   "date": "2026-11-17T19:29:10+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Quantum Machines Demonstrates Sub-Microsecond Surface-Code Decoding on OPX1000 Using NVIDIA CUDA-Q QEC and NVQLink",
+   "summary": "Quantum Machines demonstrated sub-microsecond surface-code decoding on its OPX1000 platform by integrating NVIDIA CUDA-Q QEC and NVQLink. This achieved a 2.4 μs round-trip communication latency and sub-microsecond per-round decoding for code distances 7 and…",
+   "url": "https://quantumcomputingreport.com/quantum-machines-demonstrates-sub-microsecond-surface-code-decoding-on-opx1000-using-nvidia-cuda-q-qec-and-nvqlink/",
+   "date": "2026-11-17T19:03:03+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Aqarios Launches Constraint-Native Quantum Optimizer in the IBM Qiskit Functions Catalog",
+   "summary": "Aqarios GmbH has launched its Constraint-Native Quantum Optimizer in the IBM Qiskit Functions Catalog, offering a managed solver for discrete combinatorial optimization. This optimizer uses Iterative Warm-Start XY-Mixer QAOA (IWS-QAOA) to enforce constraints…",
+   "url": "https://quantumcomputingreport.com/aqarios-launches-constraint-native-quantum-optimizer-in-the-ibm-qiskit-functions-catalog/",
+   "date": "2026-11-17T18:31:13+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Altera, OQC, and NVIDIA Demonstrate Direct-RF FPGA Quantum System Controller Reference Design at SC26",
+   "summary": "Altera, OQC, and NVIDIA showcased a quantum system controller reference design at SC26, utilizing an Altera Agilex 9 Direct RF FPGA. This design integrates real-time FPGA control with an OQC superconducting processor and NVIDIA GPUs via NVIDIA NVQLink,…",
+   "url": "https://quantumcomputingreport.com/altera-oqc-and-nvidia-demonstrate-direct-rf-fpga-quantum-system-controller-reference-design-at-sc26/",
+   "date": "2026-11-17T18:09:21+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Q.ANT Demonstrates Hybrid Photonic-GPU System for Language Models",
+   "summary": "Insider Brief PRESS RELEASE &#8212; Q.ANT, the pioneer in commercial photonic computing, today unveiled the NPU Gen 2+, the latest generation of its Native Processing Unit (NPU) technology, at SC26 in Chicago. The NPU Gen 2+ adds optical Discrete Fourier…",
+   "url": "https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/",
+   "date": "2026-11-17T17:47:39+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
+   "summary": "Insider Brief PRESS RELEASE &#8212; SAXON Q, a leader in NV-center quantum computing, today announced the Quantum Watchdog, a patented safety system that monitors a quantum computer and puts it into a safe mode if it fails. The system is designed for quantum…",
+   "url": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
+   "date": "2026-11-17T15:40:15+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
+   "summary": "Insider Brief PRESS RELEASE &#8212; QUDORA Technologies, a German-based developer of ion-trap quantum computers, has integrated NVIDIA CUDA-Q into its software development kit, enabling developers to write hybrid quantum-classical programs and run them on…",
+   "url": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
+   "date": "2026-11-17T15:02:20+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Classiq Powers Award-Winning Quantum Application Development at Japan’s NEDO Challenge",
+   "summary": "Insider Brief PRESS RELEASE &#8212; Classiq, a quantum computing software company, today announced that its three separate research collaborations – with Shionogi, KDDI Research, Inc. (“KDDI Research”) and SoftBank Corp. – have each received an award in…",
+   "url": "https://thequantuminsider.com/2026/11/17/classiq-shionogi-kddi-softbank-research-projects-nedo-awards/",
+   "date": "2026-11-17T13:04:49+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Telia, Nokia And QMill Demonstrate Quantum-Powered Encryption in a 5G Network",
+   "summary": "Insider Brief PRESS RELEASE &#8212; Telia Finland, Nokia and QMill have demonstrated the world&#8217;s first quantum-powered encryption in a 5G network using commercial equipment. In the proof of concept (PoC), QMill&#8217;s solution was integrated into…",
+   "url": "https://thequantuminsider.com/2026/11/17/telia-nokia-and-qmill-demonstrate-quantum-powered-encryption-in-a-5g-network/",
+   "date": "2026-11-17T12:50:29+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Omniva Wins QEst Hack 2026 with Quantum Parcel Routing Project",
+   "summary": "Insider Brief PRESS RELEASE &#8212; At the hackathon, six Estonian companies explored solutions to a wide range of problems—from building investment portfolios and scheduling nurses’ shifts to forecasting electricity sales and readers’ interest in news.…",
+   "url": "https://thequantuminsider.com/2026/11/17/omniva-wins-qest-hack-2026-quantum-parcel-routing-project/",
+   "date": "2026-11-17T12:49:31+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
+   "summary": "Insider Brief PRESS RELEASE &#8212; QuiX Quantum, a Dutch-German developer of universal photonic quantum computers, together with Taiwanese partners Artilux Inc. and its affiliate Brillink Inc., has been awarded funding under the TechBridge Taiwan Call 2026 –…",
+   "url": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
+   "date": "2026-11-17T12:42:28+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
+   "summary": "Insider Brief PRESS RELEASE &#8212; Qluster, a Paris-based startup specializing in quantum computing, announces its first funding round of €4.7 million led by Quantonation, an investment fund specializing in quantum technologies and disruptive physics-based…",
+   "url": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
+   "date": "2026-11-17T12:38:47+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Planckian Selected for €10 Million in EIC Support for Quantum Hardware",
+   "summary": "Insider Brief PRESS RELEASE &#8212; Planckian, a quantum hardware company building superconducting quantum processors, has been selected by the European Innovation Council (EIC) for the EIC Accelerator. The award combines a €2.5 million grant with an equity…",
+   "url": "https://thequantuminsider.com/2026/11/17/planckian-selected-for-e10-million-in-eic-support-for-quantum-hardware/",
+   "date": "2026-11-17T12:31:04+00:00"
+  }
+ ]
 }
