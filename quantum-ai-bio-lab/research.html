@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>연구 · 퀀텀AI바이오 실증실험실</title>
+  <meta name="description" content="퀀텀AI바이오 실증실험실의 연구 비전과 주제">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+KR:wght@500;600&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<main id="main">
+  <header class="page-head"><div class="wrap">
+    <h1>연구</h1>
+    <p>Quantum AI for Advanced Biotechnology. 디지털 바이오와 양자-고전 하이브리드 컴퓨팅을 잇는 연구를 합니다.</p>
+  </div></header>
+  <section class="block"><div class="wrap two-col">
+    <h2>왜 양자인가</h2>
+    <div class="prose">
+      <p>지금의 AI는 데이터에서 통계적 패턴을 배워 분자 예측, 오믹스 분석, 바이오 설계를 크게 발전시켰습니다.
+        그러나 탐색해야 할 조합이 폭발적으로 늘어나는 문제나 복잡한 분자 상호작용 앞에서는 여전히 데이터 품질과 계산 자원의 한계에 부딪힙니다.</p>
+      <p>우리는 양자컴퓨팅을 AI를 대체하는 기술이 아니라 보완하는 계산 자원으로 봅니다. 생물학적으로 의미 있게 문제를 정의하고,
+        하드웨어 특성에 맞는 알고리즘을 고르고, 오류를 관리하며, 처음부터 끝까지 재현 가능한 벤치마크를 만드는 일이 핵심입니다.</p>
+      <p>평가 기준은 생물학적 타당성, 해의 품질, 실행 시간, 자원 비용입니다. 양자 하드웨어를 썼다는 이유만으로 양자 우위를 가정하지 않습니다.</p>
+    </div>
+  </div></section>
+
+  <section class="block"><div class="wrap">
+    <div class="sec-head"><h2>하이브리드 워크플로우</h2></div>
+    <ol class="pipeline">
+      <li><span class="unit">Bio</span><b>문제 정의</b><p>멀티오믹스, 구조, 서열 데이터에서 양자로 풀 만한 하위 문제를 골라냅니다.</p></li>
+      <li><span class="unit">GPU</span><b>AI · 바이오인포매틱스</b><p>학습과 추론으로 문제를 작은 계산 표현으로 압축합니다.</p></li>
+      <li><span class="unit">QPU</span><b>양자 계산</b><p>QUBO, QAOA, VQE로 최적화, 샘플링, 양자 시뮬레이션을 수행합니다.</p></li>
+      <li><span class="unit">CPU</span><b>고전 비교</b><p>완전탐색, Simulated Annealing과 비교해 재현성을 확인합니다.</p></li>
+    </ol>
+  </div></section>
+
+  <section class="block"><div class="wrap">
+    <div class="sec-head"><h2>연구 주제</h2></div>
+    <div class="topics" id="research-list"></div>
+  </div></section>
+</main>
+  <script src="assets/js/common.js"></script>
+  <script>
+    loadJSON("data/research.json").then(list => {
+      document.getElementById("research-list").innerHTML = (list || []).map((r, i) => `
+        <article class="topic${i === 0 ? " lead-topic" : ""}">
+          <div><h3>${esc(r.title)}</h3><div class="area">${esc(r.area)}</div></div>
+          <div><p>${esc(r.summary)}</p>
+            ${r.highlights ? `<ul>${r.highlights.map(h => `<li>${esc(h)}</li>`).join("")}</ul>` : ""}
+            ${keywords(r.tags)}</div>
+        </article>`).join("");
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+[
+  {
+    "group": "책임연구자 (PI)",
+    "name": "권태호",
+    "nameEn": "Taeho Kwon, Ph.D.",
+    "role": "실험실 책임자 · KRIBB / UST 바이오융합학과",
+    "bio": "양자-고전 하이브리드 컴퓨팅을 생명공학에 접목하는 Quantum AI Bio 연구를 이끌고 있습니다.",
+    "interests": [
+      "Quantum AI",
+      "Quantum Bioinformatics",
+      "Digital Biology"
+    ],
+    "photo": "",
+    "links": {
+      "Google Scholar": "https://scholar.google.com/",
+      "ORCID": "https://orcid.org/"
+    }
+  },
+  {
+    "group": "연구원 · 학생",
+    "name": "변종원",
+    "nameEn": "Jongwon Byun",
+    "role": "연구원 / UST 바이오융합학과",
+    "bio": "멀티오믹스 기반 유전자 네트워크와 QAOA 커뮤니티 탐지를 연구합니다.",
+    "interests": [
+      "QAOA",
+      "Network Biology"
+    ],
+    "photo": "",
+    "links": {}
+  },
+  {
+    "group": "공동연구자",
+    "name": "김선규",
+    "nameEn": "Seon-Kyu Kim, Ph.D.",
+    "role": "KRIBB 유전체의학연구센터 AI-Bio 솔루션팀",
+    "bio": "AI 코사이언티스트와 양자-레디 가상 실험실 아키텍처를 연구합니다.",
+    "interests": [
+      "AI Co-Scientist",
+      "Bioinformatics"
+    ],
+    "photo": "",
+    "links": {}
+  }
+]

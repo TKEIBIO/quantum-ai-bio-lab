@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>구성원 · 퀀텀AI바이오 실증실험실</title>
+  <meta name="description" content="퀀텀AI바이오 실증실험실 구성원">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+KR:wght@500;600&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<main id="main">
+  <header class="page-head"><div class="wrap">
+    <h1>구성원</h1>
+    <p>양자 계산, AI, 생명과학을 함께 다루는 사람들입니다.</p>
+  </div></header>
+  <section class="block"><div class="wrap" id="groups"></div></section>
+</main>
+  <script src="assets/js/common.js"></script>
+  <script>
+    loadJSON("data/members.json").then(list => {
+      list = list || [];
+      const groups = [...new Set(list.map(m => m.group))];
+      document.getElementById("groups").innerHTML = groups.map(g => `
+        <h2 class="group-title">${esc(g)}</h2>
+        <div class="people">${list.filter(m => m.group === g).map(m => `
+          <article class="person">
+            ${m.photo ? `<img class="portrait" src="${esc(m.photo)}" alt="" width="72" height="72">`
+                      : `<div class="portrait" aria-hidden="true">${esc((m.name || "?").slice(0, 1))}</div>`}
+            <div>
+              <h3>${esc(m.name)}</h3>
+              ${m.nameEn ? `<div class="en">${esc(m.nameEn)}</div>` : ""}
+              <div class="role">${esc(m.role)}</div>
+              ${m.bio ? `<p>${esc(m.bio)}</p>` : ""}
+              ${keywords(m.interests)}
+              ${Object.keys(m.links || {}).length ? `<div class="links">${Object.entries(m.links).map(([k, v]) => `<a href="${esc(v)}">${esc(k)}</a>`).join("")}</div>` : ""}
+            </div>
+          </article>`).join("")}</div>`).join("");
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "platforms": [
+    { "kind": "QPU · Superconducting", "name": "IBM Quantum", "desc": "IBM Fez Heron r2 (156 큐비트)에서 QAOA 실기 실험 수행" },
+    { "kind": "QPU · Superconducting", "name": "IQM", "desc": "IQM 양자컴퓨터 기반 공동 연구 및 실증" },
+    { "kind": "QPU · Photonic", "name": "Quandela", "desc": "광자 기반 양자 클라우드를 활용한 바이오 문제 실증" },
+    { "kind": "GPU · CPU", "name": "AI · HPC 클러스터", "desc": "AI 학습·추론, 양자 회로 시뮬레이션, 고전 벤치마크" }
+  ],
+  "activities": [
+    { "date": "2026", "title": "Global Quantum AI Competition", "desc": "Winter 2026 글로벌 양자 AI 경진대회 킥오프 및 특별 세미나 참여" },
+    { "date": "2026", "title": "Quantum Exchange Day", "desc": "제3회 Quantum Exchange Day 개최 — 양자 연구자 교류의 장" },
+    { "date": "2025", "title": "QUANTUM × AI × BIO Conference", "desc": "양자 · AI · 바이오 융합 컨퍼런스 개최" }
+  ]
+}

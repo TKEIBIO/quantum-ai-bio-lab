@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>실험실 · 퀀텀AI바이오 실증실험실</title>
+  <meta name="description" content="퀀텀AI바이오 실증실험실 소개, 양자 플랫폼, 주요 활동">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+KR:wght@500;600&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<main id="main">
+  <header class="page-head"><div class="wrap">
+    <h1>실험실 소개</h1>
+    <p>Quantum AI Bio Research Laboratory (KJQI-JQL). 생명과학 문제를 실제 양자컴퓨터에서 풀어 보고 검증하는 실증 실험실입니다.</p>
+  </div></header>
+  <section class="block"><div class="wrap two-col">
+    <h2>하는 일</h2>
+    <div>
+      <div class="prose">
+        <p>한국생명공학연구원(KRIBB) 미래동물자원연구센터 AI-Bio 솔루션팀에 속한 실험실입니다.
+          생물학 질문을 양자 계산 문제로 옮기고, 클라우드로 연결된 여러 양자 하드웨어에서 실행한 뒤 고전 계산과 비교해 결과를 검증합니다.</p>
+        <p>상호운용 가능한 컴퓨팅 인프라, 검증된 연구 워크플로우, 양자·AI·생명과학을 함께 다루는 인력을 키워
+          양자-고전 하이브리드 컴퓨팅이 인류 건강에 기여할 기반을 만드는 것이 목표입니다.</p>
+      </div>
+      <dl class="facts" style="margin-top:32px">
+        <div><dt>소속</dt><dd>한국생명공학연구원 미래동물자원연구센터 AI-Bio 솔루션팀</dd></div>
+        <div><dt>학위과정</dt><dd>UST KRIBB School 바이오융합학과</dd></div>
+        <div><dt>위치</dt><dd>충청북도 청주시 청원구 오창읍 연구단지로 30 (KRIBB 오창캠퍼스)</dd></div>
+      </dl>
+    </div>
+  </div></section>
+
+  <section class="block tint"><div class="wrap">
+    <div class="sec-head"><h2>계산 인프라와 양자 플랫폼</h2></div>
+    <div class="platforms" id="platforms"></div>
+  </div></section>
+
+  <section class="block"><div class="wrap">
+    <div class="sec-head"><h2>주요 활동</h2></div>
+    <div class="rows" id="activities"></div>
+  </div></section>
+
+  <section class="block tint"><div class="wrap two-col">
+    <h2>함께할 연구자를 찾습니다</h2>
+    <div class="prose">
+      <p>양자컴퓨팅, AI, 바이오인포매틱스 가운데 하나에 깊이가 있고 나머지 둘을 배우고 싶은 분을 기다립니다.
+        UST 석·박사과정이나 박사후연구원으로 함께할 수 있습니다.</p>
+      <p><a href="members.html">구성원 보기</a></p>
+    </div>
+  </div></section>
+</main>
+  <script src="assets/js/common.js"></script>
+  <script>
+    loadJSON("data/lab.json").then(d => {
+      if (!d) return;
+      document.getElementById("platforms").innerHTML = d.platforms.map(p => `
+        <div><h3>${esc(p.name)}</h3><div class="kind">${esc(p.kind)}</div><p>${esc(p.desc)}</p></div>`).join("");
+      document.getElementById("activities").innerHTML = d.activities.map(a => `
+        <article class="row"><div class="when">${esc(a.date)}</div>
+          <div><div class="title">${esc(a.title)}</div><p>${esc(a.desc)}</p></div></article>`).join("");
+    });
+  </script>
+</body>
+</html>

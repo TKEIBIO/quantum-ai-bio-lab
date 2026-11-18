@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>뉴스 · 퀀텀AI바이오 실증실험실</title>
+  <meta name="description" content="퀀텀AI바이오 실증실험실 소식과 양자 연구 동향">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+KR:wght@500;600&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<main id="main">
+  <header class="page-head"><div class="wrap">
+    <h1>뉴스</h1>
+    <p>실험실 소식과, arXiv 및 양자 산업 매체에서 매일 아침 자동으로 모으는 연구 동향입니다.</p>
+  </div></header>
+  <section class="block"><div class="wrap">
+    <div class="sec-head"><h2>실험실 소식</h2></div>
+    <div class="rows" id="lab-news"></div>
+  </div></section>
+
+  <section class="block tint"><div class="wrap">
+    <div class="sec-head"><h2>양자 연구 동향</h2><span class="note" id="updated"></span></div>
+    <div class="toolbar">
+      <div class="filters" id="filters" role="group" aria-label="출처"></div>
+      <input class="search" id="q" type="search" placeholder="키워드 검색, 예: protein" aria-label="뉴스 검색">
+    </div>
+    <div class="rows" id="q-news"></div>
+  </div></section>
+</main>
+  <script src="assets/js/common.js"></script>
+  <script>
+    let items = [], src = "all";
+    function draw() {
+      const q = document.getElementById("q").value.trim().toLowerCase();
+      const list = items.filter(n => src === "all" || n.source === src)
+        .filter(n => !q || (n.title + " " + (n.summary || "")).toLowerCase().includes(q));
+      document.getElementById("q-news").innerHTML = list.slice(0, 60).map(newsItem).join("")
+        || `<p class="empty">${items.length ? "찾는 소식이 없습니다. 검색어를 바꿔 보세요." : "첫 자동 수집이 끝나면 여기에 표시됩니다."}</p>`;
+    }
+    Promise.all([loadJSON("data/news.json"), loadJSON("data/quantum-news.json")]).then(([lab, q]) => {
+      document.getElementById("lab-news").innerHTML = (lab || []).map(newsItem).join("") || '<p class="empty">아직 소식이 없습니다.</p>';
+      items = (q && q.items) || [];
+      if (q && q.updated) document.getElementById("updated").textContent = "업데이트 " + fmtDate(q.updated);
+      const sources = [["all", "전체"], ...new Map(items.map(n => [n.source, n.sourceName])).entries()];
+      filterBar(document.getElementById("filters"), sources, src, k => { src = k; draw(); });
+      document.getElementById("q").oninput = draw;
+      draw();
+    });
+  </script>
+</body>
+</html>

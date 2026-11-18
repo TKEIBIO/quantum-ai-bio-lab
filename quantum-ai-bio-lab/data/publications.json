@@ -1,0 +1,34 @@
+[
+  {
+    "type": "conference",
+    "year": 2026,
+    "title": "Quantum computing-assisted identification of shared macrophage suppression networks in ASFV and PEDV infection",
+    "authors": "Jongwon Byun, Taeho Kwon",
+    "venue": "학회명 입력",
+    "status": "발표",
+    "code": "code.html"
+  },
+  {
+    "type": "conference",
+    "year": 2026,
+    "title": "Quantum AI for advanced biotechnology",
+    "authors": "Taeho Kwon",
+    "venue": "학회명 입력 (초청 강연)",
+    "status": "발표"
+  },
+  {
+    "type": "report",
+    "year": 2026,
+    "title": "Multi-Platform Quantum Computing Simulation Pipeline for ADC Drug Design: HER2–Trastuzumab Interface Analysis",
+    "authors": "Taeho Kwon et al.",
+    "venue": "Technical report",
+    "status": "준비 중"
+  },
+  {
+    "type": "report",
+    "year": 2025,
+    "title": "QuantumFold: 양자-생물 융합의 새로운 시대를 여는 단백질 접힘의 미래",
+    "authors": "Taeho Kwon",
+    "venue": "기고문"
+  }
+]

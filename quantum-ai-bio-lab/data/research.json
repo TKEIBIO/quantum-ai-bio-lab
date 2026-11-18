@@ -1,0 +1,44 @@
+[
+  {
+    "area": "Quantum Network Biology",
+    "title": "양자 최적화 기반 유전자 네트워크 모듈 탐지 (ASFV · PEDV)",
+    "summary": "ASFV와 PEDV 감염에서 공통으로 억제되는 대식세포 유전자 네트워크를 멀티오믹스로 도출하고, 모듈성 기반 QUBO 문제로 정식화해 QAOA로 커뮤니티를 탐지했습니다.",
+    "highlights": [
+      "공통 하향조절 유전자 471개 → PPI·공발현·HiChIP 통합으로 20-유전자 코어 모듈 선정",
+      "20 큐비트 QAOA (p = 1–3), 시뮬레이터 및 IBM Fez Heron r2 (156 큐비트) 실기 실행",
+      "STRING 네트워크에서 p = 3, 하드웨어 5회 모두 정확한 최적 모듈성 0.499 재현 (근사비 1.000)",
+      "희소/조밀 네트워크 구조가 QAOA 성능을 좌우함을 확인"
+    ],
+    "tags": ["QUBO", "QAOA", "IBM Quantum", "Multi-omics"]
+  },
+  {
+    "area": "Quantum Drug Design",
+    "title": "멀티 플랫폼 양자 시뮬레이션 기반 ADC 약물 설계",
+    "summary": "HER2–Trastuzumab 결합 계면을 대상으로 여러 양자 컴퓨팅 플랫폼의 시뮬레이션 파이프라인을 구축하고, 항체-약물 접합체(ADC) 설계에 필요한 분자 상호작용을 분석합니다.",
+    "tags": ["VQE", "Protein–Protein Interface", "ADC", "Multi-platform"]
+  },
+  {
+    "area": "Quantum Sequence Design",
+    "title": "양자 AI 기반 mRNA 치료제 서열 설계",
+    "summary": "생성형 AI가 제안한 mRNA 후보 서열을 양자 최적화로 재평가·선별하여, 안정성과 발현 효율을 함께 고려하는 치료용 서열 설계 워크플로우를 개발합니다.",
+    "tags": ["mRNA", "Generative AI", "Quantum Optimization"]
+  },
+  {
+    "area": "Quantum Structural Biology",
+    "title": "QuantumFold: 양자-AI 하이브리드 단백질 접힘",
+    "summary": "딥러닝이 생성한 초기 구조 후보를 QAOA·CVaR-VQE 등 양자 알고리즘으로 저에너지 상태로 정제해, 돌연변이·비정형 영역·루프 등 AI 예측이 약한 영역을 보완합니다.",
+    "tags": ["Protein Folding", "CVaR-VQE", "Lattice Model"]
+  },
+  {
+    "area": "Translational Quantum AI",
+    "title": "희귀질환 · 형질전환 동물모델 양자 AI 실증 (PoC)",
+    "summary": "희귀질환 유전체 분석과 미니피그 심장 모델 데이터에 양자 AI 워크플로우를 적용하는 개념 검증 연구를 수행합니다.",
+    "tags": ["Rare Disease", "Minipig", "PoC"]
+  },
+  {
+    "area": "Quantum-ready Virtual Lab",
+    "title": "AI 코사이언티스트와 양자-레디 가상 실험실",
+    "summary": "컨텍스트 엔지니어링 기반 멀티 에이전트가 문헌·분석·모델링을 조율하고, 적합한 하위 문제를 고전 솔버·양자 시뮬레이터·QPU로 보내 벤치마킹하는 가상 실험실을 구축합니다.",
+    "tags": ["AI Co-Scientist", "Multi-Agent", "Hybrid HPC"]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "qaoa-gene-network",
+    "category": "튜토리얼",
+    "description": "유전자 상호작용 네트워크의 커뮤니티 탐지를 모듈성 QUBO로 정식화하고 QAOA로 풀어 완전탐색·Simulated Annealing과 비교하는 예제.",
+    "language": "Python",
+    "framework": "Qiskit",
+    "hardware": "Simulator / IBM Quantum",
+    "url": "code/qaoa-gene-network/",
+    "tags": ["QUBO", "QAOA", "Network Biology"]
+  },
+  {
+    "name": "quantum-mrna-design",
+    "category": "연구 코드",
+    "description": "생성형 AI 후보 mRNA 서열의 양자 최적화 기반 선별 파이프라인 (공개 준비 중).",
+    "language": "Python",
+    "framework": "Qiskit · PyTorch",
+    "url": "https://github.com/",
+    "tags": ["mRNA", "Optimization"]
+  },
+  {
+    "name": "adc-quantum-pipeline",
+    "category": "연구 코드",
+    "description": "HER2–Trastuzumab 계면 분석을 위한 멀티 플랫폼 양자 시뮬레이션 파이프라인 (공개 준비 중).",
+    "language": "Python",
+    "framework": "Qiskit · PennyLane",
+    "url": "https://github.com/",
+    "tags": ["VQE", "Drug Design"]
+  },
+  {
+    "name": "quantum-noise-benchmark",
+    "category": "벤치마크",
+    "description": "양자 노이즈가 바이오 최적화 문제의 성능에 미치는 영향을 회로 깊이별로 측정하는 노트북.",
+    "language": "Jupyter",
+    "framework": "Qiskit Aer",
+    "url": "https://github.com/",
+    "tags": ["Noise", "Benchmark"]
+  }
+]
