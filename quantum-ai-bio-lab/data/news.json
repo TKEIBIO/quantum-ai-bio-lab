@@ -5,6 +5,9 @@
     "sourceName": "실험실",
     "title": "퀀텀AI바이오 실증실험실 홈페이지를 개설했습니다",
     "summary": "연구, 구성원, 논문, 공개 코드, 양자 최신 뉴스를 한곳에서 확인하세요.",
-    "url": "index.html"
+    "url": "index.html",
+    "sourceName_en": "Lab",
+    "title_en": "The Quantum AI Bio Research Lab website is live",
+    "summary_en": "Research, people, publications, open code and the latest quantum news in one place."
   }
 ]

@@ -7,7 +7,13 @@
     "framework": "Qiskit",
     "hardware": "Simulator / IBM Quantum",
     "url": "code/qaoa-gene-network/",
-    "tags": ["QUBO", "QAOA", "Network Biology"]
+    "tags": [
+      "QUBO",
+      "QAOA",
+      "Network Biology"
+    ],
+    "category_en": "Tutorial",
+    "description_en": "Formulates community detection on a gene interaction network as a modularity QUBO, solves it with QAOA, and compares against brute force and Simulated Annealing."
   },
   {
     "name": "quantum-mrna-design",
@@ -16,7 +22,12 @@
     "language": "Python",
     "framework": "Qiskit · PyTorch",
     "url": "https://github.com/",
-    "tags": ["mRNA", "Optimization"]
+    "tags": [
+      "mRNA",
+      "Optimization"
+    ],
+    "category_en": "Research code",
+    "description_en": "Quantum-optimization pipeline for selecting generative-AI mRNA candidates (release in preparation)."
   },
   {
     "name": "adc-quantum-pipeline",
@@ -25,7 +36,12 @@
     "language": "Python",
     "framework": "Qiskit · PennyLane",
     "url": "https://github.com/",
-    "tags": ["VQE", "Drug Design"]
+    "tags": [
+      "VQE",
+      "Drug Design"
+    ],
+    "category_en": "Research code",
+    "description_en": "Multi-platform quantum simulation pipeline for HER2–Trastuzumab interface analysis (release in preparation)."
   },
   {
     "name": "quantum-noise-benchmark",
@@ -34,6 +50,11 @@
     "language": "Jupyter",
     "framework": "Qiskit Aer",
     "url": "https://github.com/",
-    "tags": ["Noise", "Benchmark"]
+    "tags": [
+      "Noise",
+      "Benchmark"
+    ],
+    "category_en": "Benchmark",
+    "description_en": "Notebook measuring how quantum noise affects bio-optimization performance at each circuit depth."
   }
 ]

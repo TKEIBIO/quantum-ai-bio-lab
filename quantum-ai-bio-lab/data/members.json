@@ -14,7 +14,10 @@
     "links": {
       "Google Scholar": "https://scholar.google.com/",
       "ORCID": "https://orcid.org/"
-    }
+    },
+    "group_en": "Principal Investigator",
+    "role_en": "Lab head · KRIBB / UST Department of Bio-Convergence",
+    "bio_en": "Leads Quantum AI Bio research that brings hybrid quantum–classical computing to biotechnology."
   },
   {
     "group": "연구원 · 학생",
@@ -27,7 +30,10 @@
       "Network Biology"
     ],
     "photo": "",
-    "links": {}
+    "links": {},
+    "group_en": "Researchers · Students",
+    "role_en": "Researcher / UST Department of Bio-Convergence",
+    "bio_en": "Studies multi-omics gene networks and QAOA community detection."
   },
   {
     "group": "공동연구자",
@@ -40,6 +46,9 @@
       "Bioinformatics"
     ],
     "photo": "",
-    "links": {}
+    "links": {},
+    "group_en": "Collaborators",
+    "role_en": "AI-Bio Solution Team, Genome Medicine Research Center, KRIBB",
+    "bio_en": "Works on AI co-scientists and quantum-ready virtual lab architectures."
   }
 ]

@@ -6,7 +6,9 @@
     "authors": "Jongwon Byun, Taeho Kwon",
     "venue": "학회명 입력",
     "status": "발표",
-    "code": "code.html"
+    "code": "code.html",
+    "venue_en": "Venue to be added",
+    "status_en": "Presented"
   },
   {
     "type": "conference",
@@ -14,7 +16,9 @@
     "title": "Quantum AI for advanced biotechnology",
     "authors": "Taeho Kwon",
     "venue": "학회명 입력 (초청 강연)",
-    "status": "발표"
+    "status": "발표",
+    "venue_en": "Venue to be added (invited talk)",
+    "status_en": "Presented"
   },
   {
     "type": "report",
@@ -22,13 +26,16 @@
     "title": "Multi-Platform Quantum Computing Simulation Pipeline for ADC Drug Design: HER2–Trastuzumab Interface Analysis",
     "authors": "Taeho Kwon et al.",
     "venue": "Technical report",
-    "status": "준비 중"
+    "status": "준비 중",
+    "status_en": "In preparation"
   },
   {
     "type": "report",
     "year": 2025,
     "title": "QuantumFold: 양자-생물 융합의 새로운 시대를 여는 단백질 접힘의 미래",
     "authors": "Taeho Kwon",
-    "venue": "기고문"
+    "venue": "기고문",
+    "venue_en": "Contributed article",
+    "title_en": "QuantumFold: the future of protein folding in a new era of quantum–biology convergence"
   }
 ]
