@@ -21,6 +21,7 @@ function renderChrome() {
     <a class="skip" href="#main">본문 바로가기</a>
     <div class="wrap">
       <a class="brand" href="index.html">
+        <img class="brand-mark" src="assets/img/kribb-symbol.png" alt="" width="30" height="30">
         <span class="brand-name">퀀텀AI바이오 실증실험실</span>
         <span class="brand-sub">KRIBB Quantum AI Bio Lab</span>
       </a>
@@ -39,6 +40,8 @@ function renderChrome() {
   footer.innerHTML = `
     <div class="wrap">
       <div>
+        <a class="kribb-logo" href="https://www.kribb.re.kr" target="_blank" rel="noopener">
+          <img src="assets/img/kribb-logo.png" alt="한국생명공학연구원 KRIBB" width="202" height="45"></a>
         <div class="name">퀀텀AI바이오 실증실험실 (KJQI-JQL)</div>
         한국생명공학연구원 미래동물자원연구센터 AI-Bio 솔루션팀<br>
         충청북도 청주시 청원구 오창읍 연구단지로 30
