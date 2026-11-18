@@ -1,0 +1,202 @@
+{
+  "translated": "2026-11-18",
+  "note": "양자 연구 동향 한국어 번역본. 글 주소(url)를 키로 매주 수동 갱신합니다.",
+  "items": {
+    "https://quantumcomputingreport.com/saxon-q-introduces-patented-quantum-watchdog-system-for-runtime-qpu-fault-detection/": {
+      "title": "SAXON Q, 가동 중 QPU 고장을 감지하는 특허 '퀀텀 워치독' 시스템 공개",
+      "summary": "SAXON Q가 양자 프로세서의 하드웨어 고장을 실제 가동 중에 감지하는 특허 시스템 '퀀텀 워치독'을 선보였다. 물리 원격 측정 데이터를 감시하고 검증된 시험 계산을 돌려 QPU의 무결성을 확인한다."
+    },
+    "https://quantumcomputingreport.com/iqm-and-amd-demonstrate-reproducible-hybrid-qpu-gpu-chemistry-workflow-using-rocm/": {
+      "title": "IQM·AMD, ROCm 기반 재현 가능한 QPU-GPU 하이브리드 화학 계산 워크플로우 시연",
+      "summary": "IQM과 AMD가 양자-고전 하이브리드 계산화학 워크플로우를 시연했다. IQM의 20큐비트 Garnet 프로세서와 ROCm 소프트웨어를 쓰는 AMD Instinct GPU로 분자 바닥상태 에너지를 계산했다."
+    },
+    "https://quantumcomputingreport.com/iqm-researchers-benchmark-projected-quantum-kernels-across-45-qubits-using-cross-device-referee-challenger-protocol/": {
+      "title": "IQM 연구진, 기기 간 심판-도전자 프로토콜로 45큐비트 사영 양자 커널 벤치마크",
+      "summary": "IQM 연구진이 기기 간 심판-도전자 프로토콜로 45큐비트에 걸친 사영 양자 커널을 벤치마크해, 양자 머신러닝 과제에서 고전 모델보다 뚜렷한 우위를 보였다고 밝혔다."
+    },
+    "https://quantumcomputingreport.com/iqm-announces-zero-downtime-upgrade-program-for-halocene-product-line-scaling-past-1000-qubits/": {
+      "title": "IQM, 1,000큐비트 이상으로 확장하는 Halocene 제품군 무중단 업그레이드 프로그램 발표",
+      "summary": "IQM이 양자 오류 정정 제품군 Halocene에 대해 무중단 업그레이드 프로그램을 시작했다. 150큐비트 프로세서에서 1,000큐비트를 넘는 시스템까지 운영 중단 없이 전환할 수 있다. HPC 센터 등을 대상으로 한다."
+    },
+    "https://quantumcomputingreport.com/unitary-foundation-releases-2026-quantum-open-source-survey-covering-sdk-adoption-hybrid-hpc-workflows-and-ai-tooling/": {
+      "title": "Unitary Foundation, 2026 양자 오픈소스 설문 발표: SDK 채택, 하이브리드 HPC, AI 도구",
+      "summary": "1,800명 이상이 응답한 2026 양자 오픈소스 설문에서 양자 소프트웨어 채택, 하이브리드 워크플로우, AI 도구의 흐름이 드러났다. SDK는 Qiskit, 클라우드는 IBM Quantum, AI 어시스턴트는 Anthropic Claude Code가 가장 많이 쓰였다."
+    },
+    "https://quantumcomputingreport.com/classiq-collaborations-with-shionogi-kddi-research-and-softbank-earn-awards-in-japans-nedo-quantum-challenge/": {
+      "title": "Classiq의 시오노기·KDDI 리서치·소프트뱅크 공동연구, 일본 NEDO 양자 챌린지 수상",
+      "summary": "Classiq은 시오노기, KDDI 리서치, 소프트뱅크와 진행한 공동연구 3건이 일본 NEDO 양자컴퓨팅 챌린지에서 수상했다고 밝혔다. 세 프로젝트는 Classiq의 Qmod로 하드웨어 실행과 내결함성 자원을 평가했다."
+    },
+    "https://quantumcomputingreport.com/planckian-selected-for-e10-million-11-million-usd-eic-accelerator-blended-finance-package-to-scale-shared-control-superconducting-processors/": {
+      "title": "Planckian, 공유 제어 초전도 프로세서 확장 위해 EIC 액셀러레이터 1,000만 유로 선정",
+      "summary": "이탈리아 초전도 양자 하드웨어 기업 Planckian이 유럽혁신위원회(EIC) 액셀러레이터에 선정돼 1,000만 유로(약 1,100만 달러) 규모의 혼합 금융을 확보했다."
+    },
+    "https://thequantuminsider.com/2026/11/17/iqm-halocene-quantum-systems-upgrade-programme/": {
+      "title": "IQM, Halocene 양자 시스템 업그레이드 프로그램 도입",
+      "summary": "IQM이 오류 정정 제품군 Halocene의 업그레이드 프로그램을 발표했다. 고객은 150큐비트 시스템에서 시작해 더 큰 시스템으로 단계적으로 옮겨 갈 수 있다."
+    },
+    "https://quantumcomputingreport.com/qudora-integrates-nvidia-cuda-q-into-qamelion-emulator-and-launches-german-funded-quanda-hpc-energy-consortium/": {
+      "title": "QUDORA, Qamelion 에뮬레이터에 NVIDIA CUDA-Q 통합하고 독일 지원 QUANDA HPC 에너지 컨소시엄 출범",
+      "summary": "QUDORA가 Qamelion 에뮬레이터에 NVIDIA CUDA-Q를 통합해, 실제와 비슷한 이온트랩 잡음 아래에서 하이브리드 양자-고전 워크플로우를 실행하고 회로를 벤치마크할 수 있게 했다. 아울러 QUANDA 컨소시엄을 출범했다."
+    },
+    "https://quantumcomputingreport.com/quantum-machines-demonstrates-sub-microsecond-surface-code-decoding-on-opx1000-using-nvidia-cuda-q-qec-and-nvqlink/": {
+      "title": "Quantum Machines, NVIDIA CUDA-Q QEC·NVQLink로 OPX1000에서 1마이크로초 미만 표면 부호 디코딩 시연",
+      "summary": "Quantum Machines가 OPX1000 플랫폼에 NVIDIA CUDA-Q QEC와 NVQLink를 통합해 표면 부호 디코딩을 시연했다. 왕복 통신 지연 2.4μs, 부호 거리 7 이상에서 라운드당 1μs 미만의 디코딩을 달성했다."
+    },
+    "http://arxiv.org/abs/2611.23227v1": {
+      "title": "2차원 가우시안 페르미온 텐서 네트워크 상태의 표현력",
+      "summary": "텐서 네트워크 상태(TNS)는 물리적으로 중요한 다체 양자 상태를 효율적으로 압축해 근사한다. TNS에 필요한 계산 자원을 나타내는 핵심 지표는 결합 차원이며, 이 논문은 2차원에서 그 표현력을 분석한다."
+    },
+    "http://arxiv.org/abs/2611.23224v1": {
+      "title": "비국소 상관에서 국소 대칭 깨짐으로: 크로스캡 상태의 비대칭 동역학",
+      "summary": "전역 대칭을 보존하는 유니터리 동역학에서는 보통 얽힘이 커지면서 처음에 깨져 있던 대칭이 국소적으로 회복된다. 저자들은 대칭을 깨는 결맞음이 처음에 특정 형태로 있으면 이 통상적 흐름이 뒤집힐 수 있음을 보였다."
+    },
+    "http://arxiv.org/abs/2611.23213v1": {
+      "title": "실제 단백질 NMR 실험에서의 양자 정보 뒤섞임 모델링",
+      "summary": "시간 순서가 뒤바뀐 상관함수(OTOC)는 연산자 확산과 정보 뒤섞임을 살피는 도구로, 최근 핵자기공명(NMR)으로 분자 구조 정보를 얻는 방법으로 제안됐다. 이 논문은 실제 단백질 NMR 조건에서 이를 구현하는 방법을 모델링한다."
+    },
+    "http://arxiv.org/abs/2611.23207v1": {
+      "title": "대규모 무작위 회로의 관측량을 위한 국소 간섭 알고리즘",
+      "summary": "양자 동역학에서는 간섭 효과가 고전 몬테카를로 샘플링에 부호 문제를 일으킨다고 흔히 여겨진다. 이 논문은 대규모 무작위 회로의 관측량을 시뮬레이션하는 과제에서는 일반적으로 그렇지 않음을 보인다."
+    },
+    "http://arxiv.org/abs/2611.23196v1": {
+      "title": "초기 내결함성 단계에서 비선형성을 보존하는 유체 흐름 양자 시뮬레이션",
+      "summary": "비선형 동역학의 앙상블 예측은 비선형 표류를 그대로 담은 선형 수송 방정식으로 확률 밀도를 전파한다. 그러나 격자에 따라 회로 비용이 커져 초기 내결함성 양자컴퓨터에서의 실현 가능성은 미해결로 남아 있었고, 이 논문이 이를 다룬다."
+    },
+    "http://arxiv.org/abs/2611.23193v1": {
+      "title": "리드버그 원자 기반 테라헤르츠 복사계 개념의 성능 분석",
+      "summary": "테라헤르츠 수신 기술은 전자공학과 광학의 경계에 있어 아직 성숙하지 않았다. 전기장에 매우 민감한 리드버그 원자 센서를 대안 수신기로 쓰는 개념의 성능을 분석했다."
+    },
+    "http://arxiv.org/abs/2611.23188v1": {
+      "title": "선형 양자 결합기를 이용한 양자 증폭",
+      "summary": "조셉슨 매개변수 증폭기(JPA)는 양자 한계 마이크로파 측정의 핵심 부품이지만, 커(Kerr) 효과 같은 펌프 유도 비선형성 때문에 동적 범위가 제한된다. 이 연구는 선형 양자 결합기를 쓴 증폭기의 성능을 체계적으로 분석한다."
+    },
+    "https://quantumcomputingreport.com/aqarios-launches-constraint-native-quantum-optimizer-in-the-ibm-qiskit-functions-catalog/": {
+      "title": "Aqarios, IBM Qiskit Functions 카탈로그에 제약 내장형 양자 최적화기 출시",
+      "summary": "Aqarios가 이산 조합 최적화를 위한 관리형 솔버를 IBM Qiskit Functions 카탈로그에 내놓았다. 반복 웜스타트 XY-믹서 QAOA(IWS-QAOA)로 제약 조건을 회로 안에서 직접 지키도록 설계됐다."
+    },
+    "http://arxiv.org/abs/2611.23186v1": {
+      "title": "3차 환과 격자 방법을 이용한 정수 텐서 동형 판정",
+      "summary": "정수 2×3×3 텐서가 GL₂(ℤ)×GL₃(ℤ)×GL₃(ℤ) 작용 아래 서로 동형인지를 유계 오류 양자 다항 시간에 판정할 수 있음을 증명했다."
+    },
+    "http://arxiv.org/abs/2611.23165v1": {
+      "title": "초전도 회로에서 격자 수술을 이용한 논리 큐비트 순간이동",
+      "summary": "대규모 문제에서 양자 우위를 보이려면 제어 정확도와 결맞음의 한계로 생기는 오류를 정정해야 한다. 양자 오류 정정 개념을 바탕으로 초전도 회로에서 격자 수술로 논리 큐비트를 순간이동시켰다."
+    },
+    "http://arxiv.org/abs/2611.23156v1": {
+      "title": "재프로그래밍 가능한 광자 프로세서로 중성 중간자의 혼합과 붕괴 양자 시뮬레이션",
+      "summary": "중성 중간자는 붕괴하면서 반입자로 진동하므로, 그 동역학은 비에르미트 유효 해밀토니언으로 기술된다. 유니터리 연산만 가능한 양자 시뮬레이터로는 이를 직접 구현할 수 없어, 재프로그래밍 가능한 광자 프로세서를 이용한 방법을 제안한다."
+    },
+    "http://arxiv.org/abs/2611.23132v1": {
+      "title": "토릭 코드에서 플로케 애니온 증식으로 생기는 비평형 위상 질서",
+      "summary": "구동이 페르미온 f 애니온을 결맞게 만들고 전파하는 플로케 퀜치에서 키타예프 토릭 코드의 동역학을 분석했다. 장시간 상태는 순수 상태 위상 질서에서 벗어나지만 장거리 얽힘은 유지한다."
+    },
+    "https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/": {
+      "title": "Q.ANT, 언어 모델용 광자-GPU 하이브리드 시스템 시연",
+      "summary": "상용 광자 컴퓨팅 기업 Q.ANT가 시카고 SC26에서 차세대 네이티브 처리 장치 NPU Gen 2+를 공개했다. 광학 이산 푸리에 변환 기능을 더했다."
+    },
+    "http://arxiv.org/abs/2611.23128v1": {
+      "title": "인과성, 결정론, 예측 가능성: 고전과 양자의 눈으로 본 자연",
+      "summary": "학생과 일반 독자를 위해, 고전적 세계관에서 양자 기술로 넘어갈 때 인과성·결정론·예측 가능성에 대한 이해가 어떻게 바뀌는지 설명한다."
+    },
+    "http://arxiv.org/abs/2611.23116v1": {
+      "title": "높은 확률로 보장되는 최적 최소 엔트로피 추정",
+      "summary": "최소 엔트로피는 난수원의 예측 불가능성을 평가하는 핵심 지표다. NIST SP 800-90B도 암호용 난수 생성기의 엔트로피원 평가에 최소 엔트로피 추정을 핵심 절차로 규정한다. 이 논문은 최적의 추정 방법을 제시한다."
+    },
+    "http://arxiv.org/abs/2611.23083v1": {
+      "title": "광자 구별 불가능성이 불완전할 때 융합 기반 양자컴퓨팅의 성능",
+      "summary": "융합 기반 양자계산(FBQC)은 작은 얽힘 자원 상태들을 선형 광학 융합 측정으로 연결하는, 내결함성 광자 양자컴퓨팅의 유망한 경로다. 광자가 완전히 구별 불가능하지 않을 때의 성능을 분석했다."
+    },
+    "http://arxiv.org/abs/2611.23062v1": {
+      "title": "파울리-피어츠 해밀토니언의 유일 연속성",
+      "summary": "파울리-피어츠 해밀토니언의 고유상태를 전자 배치의 함수(값은 스핀-광자 공간)로 보았을 때 유일 연속성이 성립함을 증명했다."
+    },
+    "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/": {
+      "title": "SAXON Q, 양자컴퓨터 고장을 감지하는 '퀀텀 워치독' 발표",
+      "summary": "NV 센터 양자컴퓨팅 기업 SAXON Q가 양자컴퓨터를 감시하다 고장이 나면 안전 모드로 전환하는 특허 안전 시스템 '퀀텀 워치독'을 발표했다."
+    },
+    "http://arxiv.org/abs/2611.22906v1": {
+      "title": "자기장 가둠 계의 정확한 모델링을 위한 장 적응형 에르미트 기저의 이산 변수 표현 개발",
+      "summary": "자기장에 따른 스펙트럼 변화를 정확히 구하려면 여러 상태를 서로 다른 자기장 영역에서 일관되게 기술하는 공통 파동함수 표현이 필요하다. 이를 위해 이산 변수 표현(DVR) 방법을 개발했다."
+    },
+    "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/": {
+      "title": "QUDORA, 양자 소프트웨어 개발 키트에 NVIDIA CUDA-Q 통합",
+      "summary": "독일 이온트랩 양자컴퓨터 개발사 QUDORA가 SDK에 NVIDIA CUDA-Q를 통합해, 개발자가 하이브리드 양자-고전 프로그램을 작성하고 실행할 수 있게 했다."
+    },
+    "http://arxiv.org/abs/2611.22834v1": {
+      "title": "이온트랩 양자 프로세서에서 희소 양자 프롤레이트 대각화로 구한 분자 에너지",
+      "summary": "기존 양자 프롤레이트 대각화(QPD)에 압축 센싱을 결합해, 분자 해밀토니언 스펙트럼의 희소성을 활용하는 희소 QPD를 제안하고 이온트랩 양자 프로세서에서 분자 에너지를 계산했다."
+    },
+    "http://arxiv.org/abs/2611.22786v1": {
+      "title": "용매화 동역학을 위한 양자-고전 동적 밀도범함수 이론",
+      "summary": "과감쇠 극성 환경에서의 열평형화와 비평형 분광을 하나로 다루는 모델링 틀을 제시한다. 동적 밀도범함수 이론을 확장해 분자와 용매의 양자-고전 결합 진화를 기술한다."
+    },
+    "https://thequantuminsider.com/2026/11/17/classiq-shionogi-kddi-softbank-research-projects-nedo-awards/": {
+      "title": "Classiq, 일본 NEDO 챌린지 수상 양자 응용 개발 지원",
+      "summary": "양자 소프트웨어 기업 Classiq은 시오노기, KDDI 리서치, 소프트뱅크와 각각 진행한 공동연구 3건이 모두 NEDO 챌린지에서 수상했다고 발표했다."
+    },
+    "https://thequantuminsider.com/2026/11/17/telia-nokia-and-qmill-demonstrate-quantum-powered-encryption-in-a-5g-network/": {
+      "title": "Telia·Nokia·QMill, 5G 네트워크에서 양자 기반 암호화 시연",
+      "summary": "Telia 핀란드, Nokia, QMill이 상용 장비를 쓴 5G 네트워크에서 세계 최초로 양자 기반 암호화를 시연했다. 개념 검증에서 QMill의 솔루션이 네트워크에 통합됐다."
+    },
+    "https://thequantuminsider.com/2026/11/17/omniva-wins-qest-hack-2026-quantum-parcel-routing-project/": {
+      "title": "Omniva, 양자 택배 경로 최적화로 QEst Hack 2026 우승",
+      "summary": "에스토니아 기업 6곳이 해커톤에서 투자 포트폴리오 구성, 간호사 근무표 편성, 전력 판매와 뉴스 관심도 예측 등 다양한 문제의 양자 해법을 탐색했다."
+    },
+    "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/": {
+      "title": "QuiX Quantum과 파트너사, 광자 양자컴퓨터용 상온 근접 검출기 개발",
+      "summary": "네덜란드·독일의 범용 광자 양자컴퓨터 개발사 QuiX Quantum이 대만의 Artilux, Brillink와 함께 TechBridge Taiwan 2026 지원 과제에 선정됐다."
+    },
+    "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/": {
+      "title": "Qluster, 차세대 양자컴퓨터 개발 위해 470만 유로 투자 유치",
+      "summary": "파리의 양자컴퓨팅 스타트업 Qluster가 양자·물리 기반 기술 전문 투자사 Quantonation이 주도한 첫 투자 라운드에서 470만 유로를 유치했다."
+    },
+    "https://thequantuminsider.com/2026/11/17/planckian-selected-for-e10-million-in-eic-support-for-quantum-hardware/": {
+      "title": "Planckian, 양자 하드웨어 위해 EIC 1,000만 유로 지원 대상 선정",
+      "summary": "초전도 양자 프로세서를 만드는 Planckian이 유럽혁신위원회(EIC) 액셀러레이터에 선정됐다. 250만 유로 보조금과 지분 투자를 결합한 지원이다."
+    },
+    "http://arxiv.org/abs/2611.22579v1": {
+      "title": "양자 미분 간섭 대비 현미경",
+      "summary": "염색하지 않은 투명한 생체 시료를 광학적으로 영상화할 때는 간섭을 이용해 위상 변화를 세기 신호로 바꾼다. 미분 간섭 대비(DIC) 현미경이 대표적이며, 이 논문은 그 양자 버전을 제안한다."
+    },
+    "http://arxiv.org/abs/2611.22118v1": {
+      "title": "변분 양자 알고리즘을 위한 관련도 기반 항 측정 희소화",
+      "summary": "반복 측정은 변분 양자 알고리즘(VQA)의 주요 병목이다. 매개변수 이동 기울기에 대한 큐비트별 가환(QWC) 그룹 기여 행렬에서 매개변수별 희소성을 찾아내, 측정 횟수를 줄이는 방법을 제시한다."
+    },
+    "http://arxiv.org/abs/2611.22108v1": {
+      "title": "양자 계산화학을 위한 안정자 부분공간 상관의 섭동적 복원",
+      "summary": "안정자 기반 부분공간 방법은 전자 구조 계산에 필요한 양자 자원을 크게 줄이지만, 남긴 부분공간 밖 배치와의 해밀토니언 결합을 무시하게 된다. 이 손실된 상관을 섭동 이론으로 되살리는 방법을 제안한다."
+    },
+    "http://arxiv.org/abs/2611.21949v1": {
+      "title": "분자 폴라리톤 네트워크에서의 양자 정보 전달: 반 블렉 유효 해밀토니언 접근",
+      "summary": "멀리 떨어진 큐비트 사이에 임의의 양자 상태를 높은 충실도로 전달하는 것은 신뢰할 수 있는 양자 하드웨어의 핵심 과제다. 폴라리톤 틀에서 사영 블록 반 블렉 방법을 도입해 이 문제를 다룬다."
+    },
+    "http://arxiv.org/abs/2611.21898v1": {
+      "title": "국소-전역 대칭의 기하학적 틀: 국소 동역학에 대한 전역 제약",
+      "summary": "분자 집합체는 흔히 단량체, 화학 작용기, 모티프 같은 국소 구조 단위로 나누어 이해한다. 이런 분해에 숨은 가정을 짚고, 전역 대칭이 국소 동역학을 어떻게 제약하는지 기하학적 틀로 설명한다."
+    },
+    "http://arxiv.org/abs/2611.21745v1": {
+      "title": "자성 모아레 계에서 조절 가능한 위상 전하 질서",
+      "summary": "강한 자기장 속 2차원 전자는 양자 홀 액체와 전자 결정이라는, 언뜻 양립할 수 없는 두 바닥상태를 보인다. 자성 모아레 계에서 이 둘을 잇는 위상 전하 질서를 조절할 수 있음을 보였다."
+    },
+    "http://arxiv.org/abs/2611.21560v2": {
+      "title": "이산 주파수 분광을 위한 최적 양자 센싱 알고리즘",
+      "summary": "분광학은 과학 발견과 현대 기술을 떠받치는 도구다. 양자 센싱은 감도와 스펙트럼·공간 해상도를 높여 분광학을 발전시킬 수 있으며, 이 논문은 이산 주파수 분광에 최적인 양자 센싱 알고리즘을 제시한다."
+    },
+    "http://arxiv.org/abs/2611.21194v1": {
+      "title": "구조가 뒤틀린 토로이달 고전 스핀 텍스처의 상호작용 지형",
+      "summary": "토로이달 배열의 국소 자기 모멘트를 정적 전류 고리로 나타낸 고전 이산 정자기 모델을 세우고, 여러 형태의 구조 뒤틀림 아래에서 자기 쌍극자-쌍극자 상호작용이 어떻게 변하는지 연구했다."
+    },
+    "http://arxiv.org/abs/2611.20063v1": {
+      "title": "불완전한 공진기가 더 잘 고른다: 순수 나선성을 넘어선 거울상 선택성",
+      "summary": "한쪽 방향으로만 도는 빛은 물질의 특정 손대칭을 고르는 데 이상적으로 보인다. 그러나 공진기 속 키랄 분자에서는 빛과 물질의 혼성화 때문에 이 직관이 들어맞지 않으며, 불완전한 공진기가 오히려 더 잘 선택함을 보였다."
+    },
+    "http://arxiv.org/abs/2611.19728v1": {
+      "title": "전하·스핀 적응 MPS의 양자 로딩",
+      "summary": "행렬 곱 상태(MPS)는 상관된 양자 상태의 강력한 고전 표현이지만, 결합 차원이 큰 MPS를 불러오면 내결함성 양자 알고리즘의 비용이 크게 늘 수 있다. 전하·스핀 대칭을 활용해 이를 준비하는 회로를 개발했다."
+    },
+    "http://arxiv.org/abs/2611.19483v1": {
+      "title": "밝은 상태와 어두운 상태의 상호작용이 분자 집합체의 진동전자 결깨짐을 좌우한다",
+      "summary": "엑시톤 분자 집합체에서 광학적으로 밝은 진동전자 고유상태와 그 뒤의 결깨짐 동역학을 잇는 분광 기반 틀을 세웠다. 다입자 홀스타인 형식과 명시적 환경 모델을 결합했다."
+    }
+  }
+}
