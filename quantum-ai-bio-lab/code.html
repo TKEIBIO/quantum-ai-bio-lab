@@ -9,9 +9,18 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+KR:wght@500;600&display=swap">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Nanum+Gothic+Coding:wght@400;700&display=swap">
   <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    /* 공개 코드 페이지: 나눔고딕 */
+    .page-code main, .page-code main h1, .page-code main h2, .page-code main h3,
+    .page-code .row .title, .page-code .row .when, .page-code .mono,
+    .page-code .filters button { font-family: "Nanum Gothic", sans-serif; }
+    .page-code main h1, .page-code main h2 { font-weight: 800; }
+    .page-code pre.code, .page-code code { font-family: "Nanum Gothic Coding", monospace; }
+  </style>
 </head>
-<body>
+<body class="page-code">
 <main id="main">
   <header class="page-head"><div class="wrap">
     <h1>공개 코드</h1>
