@@ -76,7 +76,8 @@ p { text-wrap: pretty; }
   border-bottom: 1px solid var(--rule);
 }
 .site-header .wrap { display: flex; align-items: center; justify-content: space-between; min-height: 64px; gap: var(--s5); }
-.brand { display: flex; align-items: baseline; gap: var(--s3); color: var(--ink); text-decoration: none; }
+.brand { display: flex; align-items: center; gap: var(--s3); color: var(--ink); text-decoration: none; }
+.brand-mark { width: 30px; height: 30px; flex: none; }
 .brand-name { font-family: var(--serif); font-weight: 600; font-size: 17px; }
 .brand-sub { color: var(--ink-3); font-size: 13px; }
 .nav { display: flex; gap: var(--s1); }
@@ -238,7 +239,14 @@ code { font-family: var(--mono); font-size: .9em; background: var(--paper-2); pa
 /* Footer */
 .site-footer { border-top: 1px solid var(--ink); padding: var(--s7) 0 var(--s8); color: var(--ink-2); font-size: 14.5px; }
 .site-footer .wrap { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: var(--s6); }
+.kribb-logo { display: inline-block; margin-bottom: var(--s4); line-height: 0; }
+.kribb-logo img { width: 202px; height: auto; max-width: 100%; }
 .site-footer .name { font-family: var(--serif); color: var(--ink); font-size: 17px; margin-bottom: var(--s2); }
 .site-footer nav { display: flex; flex-wrap: wrap; gap: var(--s2) var(--s5); align-content: start; justify-content: end; }
 .site-footer nav a { color: var(--ink-2); }
 @media (max-width: 700px) { .site-footer .wrap { grid-template-columns: 1fr; } .site-footer nav { justify-content: start; } }
+
+/* 어두운 화면에서는 KRIBB 로고를 흰 바탕 위에 둡니다 (로고 글자가 검정) */
+@media (prefers-color-scheme: dark) {
+  .kribb-logo { background: #fff; padding: 8px 12px; border-radius: 6px; }
+}
