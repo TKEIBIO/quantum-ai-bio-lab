@@ -157,7 +157,7 @@
       <div>
         <div class="sec-head"><h2>양자 연구 동향</h2><a href="news.html">더 보기</a></div>
         <div class="rows compact" id="q-news"></div>
-        <p class="note">arXiv와 양자 산업 매체에서 매일 아침 자동으로 모읍니다.</p>
+        <p class="note">arXiv와 양자 산업 매체에서 매일 아침 모으고, 매주 한국어로 번역합니다.</p>
       </div>
     </div>
   </section>
@@ -167,7 +167,7 @@
   <script>
     (async () => {
       const [research, labNews, qNews] = await Promise.all([
-        loadJSON("data/research.json"), loadJSON("data/news.json"), loadJSON("data/quantum-news.json"),
+        loadJSON("data/research.json"), loadJSON("data/news.json"), loadQuantumNews(),
       ]);
       document.getElementById("research-preview").innerHTML = (research || []).slice(0, 3).map(r => `
         <article class="topic"><div><h3>${esc(r.title)}</h3><div class="area">${esc(r.area)}</div></div>

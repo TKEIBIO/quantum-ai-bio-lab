@@ -29,7 +29,7 @@
 <main id="main">
   <header class="page-head"><div class="wrap">
     <h1>뉴스</h1>
-    <p>실험실 소식과, arXiv 및 양자 산업 매체에서 매일 아침 자동으로 모으는 연구 동향입니다.</p>
+    <p>실험실 소식과, arXiv 및 양자 산업 매체에서 매일 아침 모으는 연구 동향입니다. 연구 동향은 매주 한국어로 번역해 올립니다.</p>
   </div></header>
   <section class="block"><div class="wrap">
     <div class="sec-head"><h2>실험실 소식</h2></div>
@@ -47,7 +47,7 @@
     </aside>
     <div class="toolbar">
       <div class="filters" id="filters" role="group" aria-label="출처"></div>
-      <input class="search" id="q" type="search" placeholder="키워드 검색, 예: protein" aria-label="뉴스 검색">
+      <input class="search" id="q" type="search" placeholder="키워드 검색, 예: 단백질, QAOA" aria-label="뉴스 검색">
     </div>
     <div class="rows" id="q-news"></div>
   </div></section>
@@ -58,7 +58,7 @@
     function draw() {
       const q = document.getElementById("q").value.trim().toLowerCase();
       const list = items.filter(n => src === "all" || n.source === src)
-        .filter(n => !q || (n.title + " " + (n.summary || "")).toLowerCase().includes(q));
+        .filter(n => !q || [n.title, n.summary, n.titleKo, n.summaryKo].filter(Boolean).join(" ").toLowerCase().includes(q));
       document.getElementById("q-news").innerHTML = list.slice(0, 60).map(newsItem).join("")
         || `<p class="empty">${items.length ? "찾는 소식이 없습니다. 검색어를 바꿔 보세요." : "첫 자동 수집이 끝나면 여기에 표시됩니다."}</p>`;
     }
@@ -71,7 +71,7 @@
         || '<li><span></span><span class="note">소식을 불러오지 못했습니다.</span></li>';
       if (k && k.updated) document.getElementById("kqbs-updated").textContent = "매주 갱신 · 업데이트 " + fmtDate(k.updated);
     });
-    Promise.all([loadJSON("data/news.json"), loadJSON("data/quantum-news.json")]).then(([lab, q]) => {
+    Promise.all([loadJSON("data/news.json"), loadQuantumNews()]).then(([lab, q]) => {
       document.getElementById("lab-news").innerHTML = (lab || []).map(newsItem).join("") || '<p class="empty">아직 소식이 없습니다.</p>';
       items = (q && q.items) || [];
       if (q && q.updated) document.getElementById("updated").textContent = "업데이트 " + fmtDate(q.updated);
