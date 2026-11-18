@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:04:34+00:00",
+ "updated": "2026-11-18T08:05:12+00:00",
  "items": [
   {
    "source": "qcr",
@@ -90,8 +90,8 @@
    "date": "2026-11-17T18:57:40Z"
   },
   {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
    "title": "Modeling quantum information scrambling in realistic protein NMR experiments",
    "summary": "Out-of-time-order correlators (OTOCs) are important probes of operator spreading and information scrambling, and have recently been proposed as a means of extracting molecular structural information through nuclear magnetic resonance (NMR). Realizing this…",
    "url": "http://arxiv.org/abs/2611.23213v1",
@@ -226,12 +226,36 @@
    "date": "2026-11-17T15:40:15+00:00"
   },
   {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Development of a Discrete Variable Representation of a Field-Adaptive Hermite Basis for Accurate Modeling of Magnetically Confined Systems",
+   "summary": "Accurate magnetic-field evolution of spectra requires a common wavefunction representation that consistently describes multiple states across different field regimes. Discrete Variable Representation (DVR) methods combine accurate basis-based kinetic-energy…",
+   "url": "http://arxiv.org/abs/2611.22906v1",
+   "date": "2026-11-17T15:10:25Z"
+  },
+  {
    "source": "tqi",
    "sourceName": "The Quantum Insider",
    "title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
    "summary": "Insider Brief PRESS RELEASE &#8212; QUDORA Technologies, a German-based developer of ion-trap quantum computers, has integrated NVIDIA CUDA-Q into its software development kit, enabling developers to write hybrid quantum-classical programs and run them on…",
    "url": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
    "date": "2026-11-17T15:02:20+00:00"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Molecular energies from sparse quantum prolate diagonalization on a trapped-ion quantum processor",
+   "summary": "We introduce sparse quantum prolate diagonalization (sparse QPD), which combines the original formulation of QPD [Phys. Rev. Res., 8(3), 033177, (2026)] with compressed sensing to exploit Hamiltonian spectrum sparsity for molecular systems. We show that…",
+   "url": "http://arxiv.org/abs/2611.22834v1",
+   "date": "2026-11-17T14:17:08Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Quantum-classical dynamical density functional theory for solvation dynamics",
+   "summary": "We provide a unified modeling framework for thermalization and non-equilibrium spectroscopy in overdamped polar environments. This framework extends dynamical density functional theory to describe the coupled quantum-classical evolution of a molecular…",
+   "url": "http://arxiv.org/abs/2611.22786v1",
+   "date": "2026-11-17T13:49:57Z"
   },
   {
    "source": "tqi",
@@ -280,6 +304,94 @@
    "summary": "Insider Brief PRESS RELEASE &#8212; Planckian, a quantum hardware company building superconducting quantum processors, has been selected by the European Innovation Council (EIC) for the EIC Accelerator. The award combines a €2.5 million grant with an equity…",
    "url": "https://thequantuminsider.com/2026/11/17/planckian-selected-for-e10-million-in-eic-support-for-quantum-hardware/",
    "date": "2026-11-17T12:31:04+00:00"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Quantum differential interference contrast microscope",
+   "summary": "Optical sensing and imaging of transparent unstained biological and material specimen makes use of optical interference to translate phase shifts into intensity measurements, that are readily available in the optical domain. This is the case of Differential…",
+   "url": "http://arxiv.org/abs/2611.22579v1",
+   "date": "2026-11-17T11:03:11Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Variational Relevance-Informed Sparsification of Term Measurements for Variational Quantum Algorithms",
+   "summary": "Repeated measurements are a major bottleneck in variational quantum algorithms (VQAs). We uncover and characterize parameter-specific sparsity in the matrix of qubit-wise commuting (QWC) group contributions to parameter-shift gradients: most absolute…",
+   "url": "http://arxiv.org/abs/2611.22118v1",
+   "date": "2026-11-17T03:00:51Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Perturbative Recovery of Stabilizer-Subspace Correlations for Quantum Computational Chemistry",
+   "summary": "Stabilizer-based subspace methods can substantially reduce the quantum resources required for electronic structure calculations, but the resulting projection neglects Hamiltonian couplings to configurations outside the retained subspace. In this work, we…",
+   "url": "http://arxiv.org/abs/2611.22108v1",
+   "date": "2026-11-17T02:47:09Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Quantum Information Transfer in Molecular Polaritonic Networks: A Van Vleck Effective-Hamiltonian Approach",
+   "summary": "Achieving high-fidelity transfer of an arbitrary quantum state between spatially separated qubits is a central challenge for reliable quantum hardware. We address this question within a polaritonic framework by introducing Projected-Block Van Vleck…",
+   "url": "http://arxiv.org/abs/2611.21949v1",
+   "date": "2026-11-16T22:10:28Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "A Geometric Framework for Local-to-Global Symmetry: Global Constraints on Local Dynamics",
+   "summary": "Aggregate molecular systems are routinely understood by decomposing them into local structural units, such as monomers in J/H-aggregates, chemical moieties, motifs, and functional groups. Implicit in such decompositions is the assumption that these local…",
+   "url": "http://arxiv.org/abs/2611.21898v1",
+   "date": "2026-11-16T21:10:00Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Tunable Topological Charge Order in Magnetic Moiré Systems",
+   "summary": "Two-dimensional electrons in a strong magnetic field exhibit two seemingly incompatible ground states: incompressible quantum Hall liquids with a quantized Hall conductance, and electron crystals in which interactions drive the charge into ordered patterns.…",
+   "url": "http://arxiv.org/abs/2611.21745v1",
+   "date": "2026-11-16T19:00:10Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Optimal Quantum Sensing Algorithms for Discrete-Frequency Spectroscopy",
+   "summary": "Spectroscopy is a versatile tool that drives scientific discovery and underpins modern technologies. Quantum sensing offers promising opportunities to advance spectroscopy through enhanced sensitivity and spectral and spatial resolution. However, existing…",
+   "url": "http://arxiv.org/abs/2611.21560v2",
+   "date": "2026-11-16T18:39:57Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Interaction Landscapes of Structurally Distorted Toroidal Classical Spin Textures",
+   "summary": "We develop a classical discrete magnetostatic model of localized magnetic moments arranged in a toroidal texture, where the moments are represented by static current loops and study the behavior of the magnetic dipole-dipole interaction under several types of…",
+   "url": "http://arxiv.org/abs/2611.21194v1",
+   "date": "2026-11-16T14:51:05Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Imperfect Cavities Select Better: Enantioselectivity Beyond Pure Helicity",
+   "summary": "Single-handed light appears ideally suited to select a preferred handedness of matter. For chiral molecules in a cavity, we show that this intuition fails. Hybridization of light and matter reshapes the optical resonance through a self-energy that mixes…",
+   "url": "http://arxiv.org/abs/2611.20063v1",
+   "date": "2026-11-15T15:14:27Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Quantum Loading of Charge and Spin-Adapted MPS",
+   "summary": "Matrix product states (MPS) are powerful classical representations of correlated quantum states, but loading a large bond dimension MPS can substantially increase the cost in fault-tolerant quantum algorithms. We develop a circuit for preparing a…",
+   "url": "http://arxiv.org/abs/2611.19728v1",
+   "date": "2026-11-15T02:24:09Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Bright-Dark State Interplay Governs Vibronic Decoherence in Molecular Aggregates",
+   "summary": "In this study, we establish a spectroscopy-driven framework that connects optically bright vibronic eigenstates to their subsequent decoherence dynamics in excitonic molecular aggregates. Combining the Multiparticle Holstein Formalism with explicit…",
+   "url": "http://arxiv.org/abs/2611.19483v1",
+   "date": "2026-11-14T16:06:34Z"
   }
  ]
 }
