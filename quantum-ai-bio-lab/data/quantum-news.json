@@ -1,21 +1,269 @@
 {
- "updated": "2026-11-19T02:55:38+00:00",
+ "updated": "2026-11-20T02:49:22+00:00",
  "items": [
   {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
-   "summary": "Guest Post by Steve Suarez, Founder and CEO of HorizonX and Co-founder of The Quantum Index The 2026 Finance Quantum Index brings together 64 financial institutions across eight regions, more than doubling its coverage from 28 institutions in 2025. With 36…",
-   "url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
-   "date": "2026-11-18T22:34:26+00:00"
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "UCLA Researchers Model Collectively Enhanced Superconducting-Qubit Interfaces for Microwave-to-Optical Transduction",
+   "summary": "UCLA researchers have developed a theoretical model for enhancing microwave-to-optical quantum transduction using superconducting qubits. Their proposed architecture collectively couples multiple qubits to a shared optomechanical resonator, aiming to overcome…",
+   "url": "https://quantumcomputingreport.com/ucla-researchers-model-collectively-enhanced-superconducting-qubit-interfaces-for-microwave-to-optical-transduction/",
+   "date": "2026-11-20T01:19:13+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Researchers Introduce QECLean Framework to Formally Verify Quantum Error-Correcting Codes in Lean 4",
+   "summary": "Researchers have developed QECLean, an open-source framework using Lean 4 to formally verify quantum error-correcting codes, addressing the difficulty of verifying complex, algorithmically discovered codes. It has successfully verified parameters for several…",
+   "url": "https://quantumcomputingreport.com/researchers-introduce-qeclean-framework-to-formally-verify-quantum-error-correcting-codes-in-lean-4/",
+   "date": "2026-11-20T01:11:39+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "memQ and Infleqtion Sign MoU to Validate Quantum Networking Interoperability for Distributed Neutral-Atom Systems",
+   "summary": "memQ and Infleqtion have signed an MoU to validate interoperability between memQ’s quantum network architecture and Infleqtion’s quantum computing platform. This collaboration aims to enable modular multi-processor scaling by connecting separate quantum…",
+   "url": "https://quantumcomputingreport.com/memq-and-infleqtion-sign-mou-to-validate-quantum-networking-interoperability-for-distributed-neutral-atom-systems/",
+   "date": "2026-11-20T01:04:26+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Mastercard Launches Quantum Advisory Practice with QIZ Security and Releases PQC Readiness Whitepaper",
+   "summary": "Mastercard has launched a Quantum Advisory Practice with QIZ Security to help financial institutions transition to post-quantum cryptography, addressing immediate \"harvest now, decrypt later\" risks. This initiative, aligned with G7 and FS-ISAC guidance,…",
+   "url": "https://quantumcomputingreport.com/mastercard-launches-quantum-advisory-practice-with-qiz-security-and-releases-pqc-readiness-whitepaper/",
+   "date": "2026-11-20T00:58:59+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "BMO Demonstrates Quantum Utility in Game-Theoretic Machine Learning Feature Selection on IBM Nighthawk r2",
+   "summary": "BMO Financial Group, in collaboration with DUTH and IBM, has demonstrated a quantum machine learning feature-selection workflow on IBM quantum processors. They applied quantum game theory to identify high-value predictive variables in financial datasets,…",
+   "url": "https://quantumcomputingreport.com/bmo-demonstrates-quantum-utility-in-game-theoretic-machine-learning-feature-selection-on-ibm-nighthawk-r2/",
+   "date": "2026-11-20T00:36:52+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Google Quantum AI Demonstrates Measurement Contextuality Across 105 Qubits on Willow Processors",
+   "summary": "Google Quantum AI has demonstrated quantum measurement contextuality on 72-qubit and 105-qubit Willow processors, moving contextuality testing to large two-dimensional qubit arrays. This research, published in Science, establishes a hardware benchmark for…",
+   "url": "https://quantumcomputingreport.com/google-quantum-ai-demonstrates-measurement-contextuality-across-105-qubits-on-willow-processors/",
+   "date": "2026-11-20T00:22:47+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Your Best Quantum Error Correction Engineer Might Be a Bot",
+   "summary": "A description of how AI is playing an increasingly important role in assisting engineers developing new quantum error correction codes and quantum error correction decoders. The post Your Best Quantum Error Correction Engineer Might Be a Bot appeared first on…",
+   "url": "https://quantumcomputingreport.com/your-best-quantum-error-correction-engineer-might-be-a-bot/",
+   "date": "2026-11-19T23:44:15+00:00"
   },
   {
    "source": "tqi",
    "sourceName": "The Quantum Insider",
-   "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
-   "summary": "Insider Brief PRESS RELEASE &#8212; Imagine a corporate treasurer directing her company’s financial network to make a $50 million wire transfer. How can the network be certain the command is coming from a secure terminal in the company’s headquarters, and not…",
-   "url": "https://thequantuminsider.com/2026/11/18/quantum-physics-can-verify-a-persons-location-nist-researchers-show/",
-   "date": "2026-11-18T18:06:57+00:00"
+   "title": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
+   "summary": "Insider Brief It turns out teamwork can indeed make the dream work, even when the team isn’t allowed to talk. It helps to have a few entangled qubits, though. In a study, a Google-led team of researchers used a quantum chip to beat the best classical…",
+   "url": "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/",
+   "date": "2026-11-19T20:31:49+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Delta Gold Launches Dedicated Quantum Sensing Program",
+   "summary": "With new equipment funding at Penn State and the University of Toronto, Delta Gold Technologies has launched a dedicated quantum sensing program, allowing its gold nanoclusters to get to work on navigation and magnetic sensing while the quantum computing…",
+   "url": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
+   "date": "2026-11-19T17:12:49+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Students Use Quantum Computing to Address Electric Grid Challenges at Tennessee Hackathon",
+   "summary": "Insider Brief PRESS RELEASE &#8212; A team of students from Tennessee State University and Vanderbilt University took first place and a $2,500 prize at the Tennessee Quantum Hackathon, a 36-hour, in-person competition that challenged college students to use…",
+   "url": "https://thequantuminsider.com/2026/11/19/students-new-to-quantum-real-technology-power-grid-tennessee-hackathon/",
+   "date": "2026-11-19T16:16:38+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "SEALSQ Signs LOI to Acquire QuintessenceLabs",
+   "summary": "Insider Brief PRESS RELEASE &#8212; WISeQey Corp. (formerly known as WISeKey International Holding AG, “WISeQey”) (Nasdaq/SIX: WQEY), a global quantum cybersecurity and space IoT company, today announced that its subsidiary, SEALSQ Corp (NASDAQ: LAES)…",
+   "url": "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/",
+   "date": "2026-11-19T16:07:58+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "From Lab to Live: Inside the Practical Realities of Deploying Quantum Computing at Data Center Scale",
+   "summary": "Behind Equinix and Diraq’s collaboration to bring a silicon spin quantum computer into a commercial data center … and what it actually takes to get there. Insider Brief The recent headlines around Diraq and Equinix&#8217;s collaboration have focused on a…",
+   "url": "https://thequantuminsider.com/2026/11/19/from-lab-to-live-inside-the-practical-realities-of-deploying-quantum-computing-at-data-center-scale/",
+   "date": "2026-11-19T16:07:22+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+   "summary": "Insider Brief PRESS RELEASE &#8212; Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced an integration with the Hierarchical Resources (HRES) capability recently added to Slurm, the open-source workload manager widely…",
+   "url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+   "date": "2026-11-19T15:56:53+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "memQ and Infleqtion Sign MoU to Advance Networked Quantum Computing",
+   "summary": "Insider Brief PRESS RELEASE &#8212; memQ™, the industry leader in quantum networking solutions for distributed quantum computing, and Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, have…",
+   "url": "https://thequantuminsider.com/2026/11/19/memq-infleqtion-mou-quantum-networking-interoperability/",
+   "date": "2026-11-19T15:45:03+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Securities Regulators Warn That Slow Progress on Quantum Security is a Mistake",
+   "summary": "Insider Brief Financial markets are still in the early stages of preparing for quantum computers that could break the security protecting trades, payments and confidential records, a global group of securities regulators said. And they might not be moving…",
+   "url": "https://thequantuminsider.com/2026/11/19/securities-regulators-warn-that-slow-progress-on-quantum-security-is-a-mistake/",
+   "date": "2026-11-19T12:35:50+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
+   "summary": "Insider Brief PRESS RELEASE &#8212; BMO today announced it has demonstrated quantum utility in a machine learning application using IBM quantum computers, meaning the work was performed reliably at a scale beyond what exact traditional computing methods can…",
+   "url": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
+   "date": "2026-11-19T11:51:36+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "SK Broadband to Test Quantum Security on Korea-Singapore Subsea Cable",
+   "summary": "Insider Brief A quantum security test network spanning countries is to be built on the Busan-Singapore stretch of SJC2, a subsea cable that connects Asia, SK Broadband said on the 19th, according to Seoul Economic Daily. The company’s aim is to check how…",
+   "url": "https://thequantuminsider.com/2026/11/19/sk-broadband-quantum-security-testbed-korea-singapore-cable/",
+   "date": "2026-11-19T11:25:52+00:00"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Convex splitting by binary quantum hypothesis testing",
+   "summary": "How many independent quantum systems does it take to hide one system that is correlated with a reference? An observer can measure all the systems together with the reference to detect the correlation. We turn any such measurement into binary tests on a single…",
+   "url": "http://arxiv.org/abs/2611.25496v1",
+   "date": "2026-11-19T04:39:43Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Interfacing Silicon Nitride Nanophotonics with Cuprous Oxide Rydberg Excitons",
+   "summary": "Rydberg excitons in cuprous oxide (Cu$_2$O), the solid-state counterpart of Rydberg atoms, are hydrogen-like electron--hole quasi-particles with micron-sized wavefunctions and strong long-range interactions that promise optical nonlinearities at the…",
+   "url": "http://arxiv.org/abs/2611.25431v1",
+   "date": "2026-11-19T03:12:18Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Counterfactual attribution of surface-code failures under non-Pauli noise: dependence on trajectory pairing",
+   "summary": "Under Pauli noise in a stabilizer memory, attributing a quantum error-correction failure to the noise that caused it has a canonical answer; under non-Pauli noise the attribution depends on how trajectories are paired with their counterfactuals. We define a…",
+   "url": "http://arxiv.org/abs/2611.25397v1",
+   "date": "2026-11-19T02:38:48Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Ising-Encoded Computational Homogenization: Stress as a Quantum Observable",
+   "summary": "Computational homogenization requires repeated solutions of representative volume element (RVE) problems to determine the effective response transferred to the macroscale, including the homogenized stress. Here, we develop a basis-encoded, energy-based…",
+   "url": "http://arxiv.org/abs/2611.25383v1",
+   "date": "2026-11-19T02:23:25Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Compiling Constraints into Neuromorphic Ising Machines",
+   "summary": "Most practical combinatorial optimization problems involve constraints, and an Ising machine that flips one spin at a time can respect them only through energy penalties that raise barriers between feasible solutions. Here we show that a higher-order…",
+   "url": "http://arxiv.org/abs/2611.25352v1",
+   "date": "2026-11-19T01:48:43Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Curvature-Calibrated Friction and an Exact Gauge Symmetry for Quantum Hamiltonian Descent",
+   "summary": "A design problem constrained by a partial differential equation can be solved coherently on a quantum computer. The objective is block-encoded rather than measured, and Quantum Hamiltonian Descent consumes it directly. We identify two obstacles in this…",
+   "url": "http://arxiv.org/abs/2611.25341v1",
+   "date": "2026-11-19T01:28:08Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Generation of coherent-state Schrödinger cat states in a two-photon Jaynes-Cummings model implemented with Josephson junctions",
+   "summary": "We investigate the generation of coherent-state Schrödinger cat states using a two-photon Jaynes-Cummings model (JCM) implemented in a Josephson-junction quantum circuit. We consider a specific superconducting flux-qubit implementation and estimate the…",
+   "url": "http://arxiv.org/abs/2611.25323v1",
+   "date": "2026-11-19T00:52:26Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Quantum dynamical transitions when the corresponding classical phase space has a separatrix: extension of the QKNH theorem beyond double wells",
+   "summary": "In classical Hamiltonian systems with a slowly time-dependent parameter, adiabaticity breaks down at a separatrix, leading to probabilistic post-adiabatic transitions between different phase-space regions described by the Kruskal-Neishtadt-Henrard (KNH)…",
+   "url": "http://arxiv.org/abs/2611.25299v1",
+   "date": "2026-11-18T23:50:03Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Resilience of emergent Hamiltonian quantum memories in the presence of noise",
+   "summary": "Emergent Hamiltonians can freeze an entangled state prepared through coherent evolution, since that state is an eigenstate of the Hamiltonian under which it is then stored. We show that the freedom left in this construction allows the storage spectrum to be…",
+   "url": "http://arxiv.org/abs/2611.25286v1",
+   "date": "2026-11-18T23:25:07Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Certified Separation Between Coherent and Adaptive Temporal Processing of Quantum-Error-Correction Readout",
+   "summary": "Repeated quantum-error-correction readout is normally converted into a classical time series: each syndrome pulse is measured on arrival and only the resulting classical record is retained. Nonorthogonal readout signals raise the question of whether…",
+   "url": "http://arxiv.org/abs/2611.25216v1",
+   "date": "2026-11-18T21:40:51Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Tunable source of entangled microwaves by nonlinear scattering of magnons",
+   "summary": "We propose a route to prepare entangled states of microwaves propagating in spatially separated transmission lines using the intrinsic nonlinear dynamics of ferromagnetic spin waves (magnons). We first show that a driven magnon mode can produce entangled…",
+   "url": "http://arxiv.org/abs/2611.25207v1",
+   "date": "2026-11-18T21:33:26Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Analytic and Numerical Investigation of a Proposed Non-linear Extension of Quantum Mechanics",
+   "summary": "In this paper, additional properties of a previously introduced non-linear extension of quantum mechanics are investigated. Analytically, we uncover a limit in which the model reduces to ordinary linear quantum mechanics. We also perform a perturbation…",
+   "url": "http://arxiv.org/abs/2611.25188v1",
+   "date": "2026-11-18T21:10:45Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Accelerating Diffusion Maps on a Quantum Computer: Spectral Filtering and Galerkin PDE Solvers",
+   "summary": "Diffusion maps generalize principal component analysis (PCA) to nonlinear manifolds, enabling spectral dimensionality reduction, geometric data analysis, and elliptic PDE approximation on point clouds. For large datasets of size $N$, however, classical matrix…",
+   "url": "http://arxiv.org/abs/2611.25147v1",
+   "date": "2026-11-18T20:27:46Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Colloquium: Isotopes for medicine and fundamental physics",
+   "summary": "Isotopes, variants of elements distinguished by their neutron number, have important applications for medicine and fundamental science. This review explores the historical challenges and new technologies for enriching and detecting isotopes. We motivate the…",
+   "url": "http://arxiv.org/abs/2611.25145v1",
+   "date": "2026-11-18T20:24:17Z"
+  },
+  {
+   "source": "arxiv",
+   "sourceName": "arXiv · quant-ph",
+   "title": "Characterizing a neutral atom quantum simulator accessible in cloud",
+   "summary": "Quantum simulators have become a reality in recent years, with several platforms now remotely accessible through the cloud. These systems give researchers the opportunity to run quantum programs without requiring either a dedicated laboratory or extensive…",
+   "url": "http://arxiv.org/abs/2611.25131v1",
+   "date": "2026-11-18T20:09:08Z"
+  },
+  {
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Quantum Simulation of First-Quantised Chemistry with a Sum-of-Squares Representation",
+   "summary": "Calculating molecular energies is expected to be an important application of quantum computers, but the most efficient algorithms to achieve this typically have significant space requirements. Scaling quantum processors to thousands of logical qubits is a…",
+   "url": "http://arxiv.org/abs/2611.24885v1",
+   "date": "2026-11-18T18:29:52Z"
   },
   {
    "source": "qcr",
@@ -34,14 +282,6 @@
    "date": "2026-11-18T17:04:11+00:00"
   },
   {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
-   "summary": "Insider Brief PRESS RELEASE &#8212; The National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratory and QuEra Computing, the leader in neutral-atom quantum computing, today announced the publication of a new study in…",
-   "url": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/",
-   "date": "2026-11-18T17:03:12+00:00"
-  },
-  {
    "source": "qcr",
    "sourceName": "Quantum Computing Report",
    "title": "Quandela Expands International Photonic Footprint with Deployment Alliance in Qatar and Foundry MoU in Taiwan",
@@ -50,236 +290,28 @@
    "date": "2026-11-18T17:00:59+00:00"
   },
   {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Alice & Bob Accelerates Modular Cat-Qubit Roadmap to 200 Logical Qubits from 3,600 Physical Qubits by 2030",
-   "summary": "Alice &#038; Bob has unveiled an accelerated quantum computing roadmap, aiming for 200 logical qubits from 3,600 physical cat qubits by 2030 in their Carbon system, and scaling to 2,048 logical qubits by 2034. This advancement is due to their cat qubits'…",
-   "url": "https://quantumcomputingreport.com/alice-bob-accelerates-modular-cat-qubit-roadmap-to-200-logical-qubits-from-3600-physical-qubits-by-2030/",
-   "date": "2026-11-18T16:36:48+00:00"
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Efficient simulation of variational quantum circuits: representation, accuracy and CPU/GPU allocation",
+   "summary": "Classical circuit simulation supports quantum software development and verification and provides a baseline for assessing quantum advantage. We compare gate-based statevector simulation, direct Pauli evolution and matrix product states for molecular and spin…",
+   "url": "http://arxiv.org/abs/2611.24444v1",
+   "date": "2026-11-18T13:56:37Z"
   },
   {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Bradesco and evolutionQ Begin Quantum Communication Tests to Assess New Data Protection Models",
-   "summary": "Insider Brief PRESS RELEASE &#8212; A pioneering initiative in Brazil’s financial sector seeks to study, in a controlled environment, the feasibility of the technology and its potential to strengthen the security of information exchange among companies,…",
-   "url": "https://thequantuminsider.com/2026/11/18/bradesco-and-evolutionq-begin-quantum-communication-tests-to-assess-new-data-protection-models/",
-   "date": "2026-11-18T16:21:01+00:00"
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "Efficient Spectra and Dynamics with Tangent-Space Chebyshev Tree Tensor Networks",
+   "summary": "We present a tangent-space Chebyshev method (TaChe), which combines tree tensor network states with Chebyshev recursion and maximum entropy spectral analysis in a tree tensor network tangent space, for quantum many-body spectra and dynamics. Implemented…",
+   "url": "http://arxiv.org/abs/2611.23975v1",
+   "date": "2026-11-18T07:13:44Z"
   },
   {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Brazil Receives Parts for Two Quantum Computers in Partnership With China",
-   "summary": "Insider Brief Brazil received parts for two quantum computers under a deal with Chinese technology company China Electronics Technology Group Corporation, or CETC. The equipment arrived Nov. 16 in João Pessoa, the capital of the northeastern state of Paraíba,…",
-   "url": "https://thequantuminsider.com/2026/11/18/brazil-receives-parts-for-two-quantum-computers-in-partnership-with-china/",
-   "date": "2026-11-18T14:24:48+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "New OQI Impact Tool Supports The Responsible Design of Quantum Computing Applications",
-   "summary": "Insider Brief PRESS RELEASE &#8212; The Open Quantum Institute (OQI), in collaboration with GESDA and the UN Beyond Lab, has launched the OQI Impact Tool, an open, online tool for quantum computing applications developers. It supports responsible innovation…",
-   "url": "https://thequantuminsider.com/2026/11/18/new-oqi-impact-tool-supports-the-responsible-design-of-quantum-computing-applications/",
-   "date": "2026-11-18T13:05:00+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "SEALSQ Signs Letter of Intent to Acquire QuintessenceLabs",
-   "summary": "Insider Brief PRESS RELEASE &#8212; SEALSQ Corp (NASDAQ: LAES) (&#8220;SEALSQ&#8221; or &#8220;Company&#8221;), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced…",
-   "url": "https://thequantuminsider.com/2026/11/18/sealsq-letter-of-intent-acquire-quintessencelabs/",
-   "date": "2026-11-18T12:54:07+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
-   "summary": "Insider Brief PRESS RELEASE &#8212; A group of International research, network and technology organizations has demonstrated hybrid quantum-safe networking between Chicago and Europe at SC26, the Supercomputing Conference 2026. The infrastructure that spans…",
-   "url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
-   "date": "2026-11-18T12:44:46+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Zapata Quantum Launches Open Challenge to Verify AI-Generated Quantum Research",
-   "summary": "Insider Brief PRESS RELEASE &#8212; As AI accelerates scientific discovery, it has become increasingly critical that new results be both provably correct and explainable to humans. Zapata Quantum (OTCQB: ZPTA) (“Zapata”, “Zapata Quantum” or the “Company”), a…",
-   "url": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
-   "date": "2026-11-18T12:10:36+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Alice & Bob’s Updated Roadmap Targets 200 Logical Qubits From 3,600 Physical Qubits by 2030",
-   "summary": "Insider Brief PRESS RELEASE &#8212; Alice &#38; Bob, a leader in fault-tolerant quantum computing, today unveiled an updated, modular roadmap. The company targets 200 logical qubits as soon as 2030, double its previous target, with Carbon, which will be built…",
-   "url": "https://thequantuminsider.com/2026/11/18/alice-bobs-updated-roadmap-targets-200-logical-qubits-from-3600-physical-qubits-by-2030/",
-   "date": "2026-11-18T12:03:29+00:00"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Covering the Pauli Observables: Sampling Thresholds and the Design Effect of a Measurement Setting",
-   "summary": "Quantum state tomography and shadow-based estimation rely on measuring Pauli observables. An experiment does not measure them one at a time: it chooses a measurement setting that assigns one of the bases X, Y or Z to each qubit, and a single run in that…",
-   "url": "http://arxiv.org/abs/2611.23827v1",
-   "date": "2026-11-18T04:26:54Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Stationary Quantum Time Series: Spectral Theory of Process Memory and Measurement Records",
-   "summary": "Classical time series analysis converts temporal dependence into structure that can be learned from a single observed trajectory, through stationarity, ergodicity, spectral representation, and finite-memory models. Quantum experiments are naturally time…",
-   "url": "http://arxiv.org/abs/2611.23809v1",
-   "date": "2026-11-18T04:13:41Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Critical--localized reentry under periodic spacer control",
-   "summary": "Tracking a fixed fraction of a quasiperiodic spectrum tests whether repeated critical--localized alternation extends over a nonzero spectral weight. We find such alternation in a matched-dimer chain by varying only the spacer on-site energies and following a…",
-   "url": "http://arxiv.org/abs/2611.23796v1",
-   "date": "2026-11-18T04:00:37Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Spectral Engineering of Charge Localization and Work Reliability in Collective Quantum Batteries",
-   "summary": "The performance of a quantum battery depends not only on how much energy it stores, but also on how rapidly useful charge can be restored after work extraction. We show how engineering the reservoir spectrum connects these properties in an interacting…",
-   "url": "http://arxiv.org/abs/2611.23789v1",
-   "date": "2026-11-18T03:57:19Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "QWeaver: Quantum Circuit Cut Workflow with MLIR-based Compiler, Runtime, and Weaver Hybrid Tasks",
-   "summary": "Quantum computers available today are constrained by limited qubit counts and high noise levels, making the direct execution of large quantum circuits infeasible on a single device, and while quantum circuit cutting addresses this by partitioning a large…",
-   "url": "http://arxiv.org/abs/2611.23786v1",
-   "date": "2026-11-18T03:50:37Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Subsystem evolution in the history state formalism",
-   "summary": "We present a relational framework for characterizing the evolution of quantum composite systems, based on the correlations within a history state describing the whole evolution relative to a quantum reference clock. While total system-clock entanglement…",
-   "url": "http://arxiv.org/abs/2611.23784v1",
-   "date": "2026-11-18T03:50:09Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Addressable transversal CCZ gates on almost good quantum LDPC codes and nearly optimal magic state protocols",
-   "summary": "Assuming uniform subfield product expansion, we construct quantum low-density parity-check (qLDPC) codes with distances $Ω_ε(N/\\log^2N)$ and at least $N^{1-ε}$ individually addressable logical CCZ gates on pairwise disjoint triples of logical qubits, for…",
-   "url": "http://arxiv.org/abs/2611.23762v1",
-   "date": "2026-11-18T03:16:56Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Parity Push Post-Selection with Soft Parity Constraints for Quantum LDPC Codes",
-   "summary": "Post-selection lowers the logical error rate of a quantum error-correcting code by rejecting unreliable shots. For a code with $K$ logical observables, the logical gap, a standard post-selection criterion, involves $2^K$ logical classes, and existing…",
-   "url": "http://arxiv.org/abs/2611.23759v1",
-   "date": "2026-11-18T03:13:39Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Hierarchical coupling in tripartite van der Waals cavity magnonics for a low-loss and tunable coupled-mode Hamiltonian",
-   "summary": "One of the greatest merits of cavity magnonics (CM) is the ability to explore rich coupled-mode physics, driven by the large \\textit{in situ} flux tunability of magnonic resonances and magnon--photon coupling. Meanwhile, van der Waals (vdW) magnets offer an…",
-   "url": "http://arxiv.org/abs/2611.23756v1",
-   "date": "2026-11-18T03:11:48Z"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "SAXON Q Introduces Patented Quantum Watchdog System for Runtime QPU Fault Detection",
-   "summary": "SAXON Q has introduced Quantum Watchdog, a patented system designed to detect hardware failures in quantum processors during live operation. This system monitors physical telemetry and runs verified test calculations to ensure the integrity of QPUs. Quantum…",
-   "url": "https://quantumcomputingreport.com/saxon-q-introduces-patented-quantum-watchdog-system-for-runtime-qpu-fault-detection/",
-   "date": "2026-11-18T02:56:21+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "IQM and AMD Demonstrate Reproducible Hybrid QPU-GPU Chemistry Workflow Using ROCm",
-   "summary": "IQM Quantum Computers and AMD have successfully demonstrated a hybrid quantum-classical computational chemistry workflow. This workflow utilizes IQM's 20-qubit Garnet processor and AMD Instinct GPUs with ROCm software to perform molecular ground-state energy…",
-   "url": "https://quantumcomputingreport.com/iqm-and-amd-demonstrate-reproducible-hybrid-qpu-gpu-chemistry-workflow-using-rocm/",
-   "date": "2026-11-18T02:33:38+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "IQM Researchers Benchmark Projected Quantum Kernels Across 45 Qubits Using Cross-Device Referee-Challenger Protocol",
-   "summary": "IQM Researchers have successfully benchmarked projected quantum kernels across 45 qubits using a cross-device referee-challenger protocol, demonstrating a significant advantage over classical models in quantum machine learning tasks. Their study, conducted on…",
-   "url": "https://quantumcomputingreport.com/iqm-researchers-benchmark-projected-quantum-kernels-across-45-qubits-using-cross-device-referee-challenger-protocol/",
-   "date": "2026-11-18T02:18:11+00:00"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Chirp-stabilized charging of a two-level quantum battery",
-   "summary": "Resonantly driven two-level quantum batteries (QBs) suffer from strong pulse-area dependence and energy backflow inherent to Rabi oscillations. To address this limitation, we propose charging of a two-level QB with chirped pulses. We investigate four charging…",
-   "url": "http://arxiv.org/abs/2611.23712v1",
-   "date": "2026-11-18T02:11:17Z"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "IQM Announces Zero-Downtime Upgrade Program for Halocene Product Line Scaling Past 1,000 Qubits",
-   "summary": "IQM Quantum Computers has launched a zero-downtime upgrade program for its Halocene quantum error-correction product line, enabling a seamless transition from 150-qubit processors to systems exceeding 1,000 qubits. This program, designed for HPC and…",
-   "url": "https://quantumcomputingreport.com/iqm-announces-zero-downtime-upgrade-program-for-halocene-product-line-scaling-past-1000-qubits/",
-   "date": "2026-11-18T01:41:51+00:00"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Separating QMA from the QCMA Hierarchy via a Switching Lemma for Polynomials",
-   "summary": "We construct a classical oracle relative to which QMA is not contained in the QCMA hierarchy. Our main technical contribution is a switching lemma for bounded polynomials, which provides a new conceptual viewpoint on earlier sampler-based arguments separating…",
-   "url": "http://arxiv.org/abs/2611.23693v1",
-   "date": "2026-11-18T01:35:33Z"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Unitary Foundation Releases 2026 Quantum Open Source Survey Covering SDK Adoption, Hybrid HPC Workflows, and AI Tooling",
-   "summary": "The 2026 Quantum Open Source Survey, with over 1,800 respondents, reveals key trends in quantum software adoption, hybrid workflows, and AI tooling. Qiskit leads in SDKs, IBM Quantum in cloud services, and Anthropic Claude Code in AI assistants. The survey…",
-   "url": "https://quantumcomputingreport.com/unitary-foundation-releases-2026-quantum-open-source-survey-covering-sdk-adoption-hybrid-hpc-workflows-and-ai-tooling/",
-   "date": "2026-11-18T01:22:45+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Classiq Collaborations with Shionogi, KDDI Research, and SoftBank Earn Awards in Japan’s NEDO Quantum Challenge",
-   "summary": "Classiq announced that three joint research initiatives with Shionogi, KDDI Research, and SoftBank received awards in Japan’s NEDO Quantum Computing Challenge. These projects utilized Classiq’s Qmod and evaluated hardware execution and fault-tolerant resource…",
-   "url": "https://quantumcomputingreport.com/classiq-collaborations-with-shionogi-kddi-research-and-softbank-earn-awards-in-japans-nedo-quantum-challenge/",
-   "date": "2026-11-18T01:01:17+00:00"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Renormalization and exact Bloch bands: the trigonometric Rosen-Morse model",
-   "summary": "We study the trigonometric Rosen-Morse potential as an isolated singular well and as an exactly solvable periodic lattice. The potential combines inverse-square singularities with Coulomb terms of opposite signs. In the strongly attractive regime, independent…",
-   "url": "http://arxiv.org/abs/2611.23649v1",
-   "date": "2026-11-18T00:14:29Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Parisi Energy before Parisi Geometry in the Quantum Approximate Optimization Algorithm",
-   "summary": "The fractured low-energy landscape of spin glasses presents a notorious barrier to optimization. While high-depth calculations indicate that the Quantum Approximate Optimization Algorithm (QAOA) can approach the Parisi ground-state energy of the…",
-   "url": "http://arxiv.org/abs/2611.23645v1",
-   "date": "2026-11-18T00:08:39Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Extreme value statistics for majorisation partial orders",
-   "summary": "We study extreme-value phenomena for random samples in partially ordered sets through their meets and joins, the order-theoretic analogues of minima and maxima. In this paper we consider the probability simplex equipped with either UT-majorisation or…",
-   "url": "http://arxiv.org/abs/2611.23612v1",
-   "date": "2026-11-17T23:04:30Z"
-  },
-  {
-   "source": "arxiv",
-   "sourceName": "arXiv · quant-ph",
-   "title": "Uniformly Convergent Perturbation Theory for Open Quantum Systems at, near, and away from Exceptional Points",
-   "summary": "Near a Liouvillian exceptional point, spectral perturbation theory becomes ill-conditioned, yet the observable dynamics of a finite-dimensional open system remains regular in the perturbation. Using a Dyson expansion, which requires no diagonalization of the…",
-   "url": "http://arxiv.org/abs/2611.23604v1",
-   "date": "2026-11-17T22:58:33Z"
+   "source": "arxiv-bio",
+   "sourceName": "arXiv · 양자 바이오",
+   "title": "The $S$ and Double-Exponential Transformations with a Moment Expansion for Three-Centre Coulomb and Hybrid Integrals",
+   "summary": "Three-centre two-electron Coulomb and hybrid integrals over exponential-type functions involve semi-infinite radial integrals containing oscillatory spherical Bessel functions. We investigate the combination of the $S$ transformation with Fourier-type…",
+   "url": "http://arxiv.org/abs/2611.23965v1",
+   "date": "2026-11-18T06:59:35Z"
   },
   {
    "source": "arxiv-bio",
@@ -310,7 +342,7 @@
    "sourceName": "arXiv · 양자 바이오",
    "title": "Development of a Discrete Variable Representation of a Field-Adaptive Hermite Basis for Accurate Modeling of Magnetically Confined Systems",
    "summary": "Accurate magnetic-field evolution of spectra requires a common wavefunction representation that consistently describes multiple states across different field regimes. Discrete Variable Representation (DVR) methods combine accurate basis-based kinetic-energy…",
-   "url": "http://arxiv.org/abs/2611.22906v1",
+   "url": "http://arxiv.org/abs/2611.22906v2",
    "date": "2026-11-17T15:10:25Z"
   },
   {
@@ -368,38 +400,6 @@
    "summary": "Aggregate molecular systems are routinely understood by decomposing them into local structural units, such as monomers in J/H-aggregates, chemical moieties, motifs, and functional groups. Implicit in such decompositions is the assumption that these local…",
    "url": "http://arxiv.org/abs/2611.21898v1",
    "date": "2026-11-16T21:10:00Z"
-  },
-  {
-   "source": "arxiv-bio",
-   "sourceName": "arXiv · 양자 바이오",
-   "title": "Tunable Topological Charge Order in Magnetic Moiré Systems",
-   "summary": "Two-dimensional electrons in a strong magnetic field exhibit two seemingly incompatible ground states: incompressible quantum Hall liquids with a quantized Hall conductance, and electron crystals in which interactions drive the charge into ordered patterns.…",
-   "url": "http://arxiv.org/abs/2611.21745v1",
-   "date": "2026-11-16T19:00:10Z"
-  },
-  {
-   "source": "arxiv-bio",
-   "sourceName": "arXiv · 양자 바이오",
-   "title": "Optimal Quantum Sensing Algorithms for Discrete-Frequency Spectroscopy",
-   "summary": "Spectroscopy is a versatile tool that drives scientific discovery and underpins modern technologies. Quantum sensing offers promising opportunities to advance spectroscopy through enhanced sensitivity and spectral and spatial resolution. However, existing…",
-   "url": "http://arxiv.org/abs/2611.21560v2",
-   "date": "2026-11-16T18:39:57Z"
-  },
-  {
-   "source": "arxiv-bio",
-   "sourceName": "arXiv · 양자 바이오",
-   "title": "Interaction Landscapes of Structurally Distorted Toroidal Classical Spin Textures",
-   "summary": "We develop a classical discrete magnetostatic model of localized magnetic moments arranged in a toroidal texture, where the moments are represented by static current loops and study the behavior of the magnetic dipole-dipole interaction under several types of…",
-   "url": "http://arxiv.org/abs/2611.21194v1",
-   "date": "2026-11-16T14:51:05Z"
-  },
-  {
-   "source": "arxiv-bio",
-   "sourceName": "arXiv · 양자 바이오",
-   "title": "Imperfect Cavities Select Better: Enantioselectivity Beyond Pure Helicity",
-   "summary": "Single-handed light appears ideally suited to select a preferred handedness of matter. For chiral molecules in a cavity, we show that this intuition fails. Hybridization of light and matter reshapes the optical resonance through a self-energy that mixes…",
-   "url": "http://arxiv.org/abs/2611.20063v1",
-   "date": "2026-11-15T15:14:27Z"
   }
  ]
 }
