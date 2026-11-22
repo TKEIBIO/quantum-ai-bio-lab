@@ -1,29 +1,93 @@
 {
- "updated": "2026-11-21T02:58:18+00:00",
+ "updated": "2026-11-22T01:53:52+00:00",
  "items": [
   {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Plurilock Shareholders Approve Plan of Arrangement for Acquisition by Quantum eMotion",
-   "summary": "Plurilock Security Inc. shareholders have approved the company's acquisition by Quantum eMotion Corp. The acquisition, valued at C$0.28 per share, involves a cash and stock deal. Plurilock is now seeking final court approval, after which the transaction will…",
-   "url": "https://quantumcomputingreport.com/plurilock-shareholders-approve-plan-of-arrangement-for-acquisition-by-quantum-emotion/",
-   "date": "2026-11-20T16:40:29+00:00"
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "TQI linking test v15 (delete me)",
+   "summary": "IonQ announced a deal with Mastercard today. Analysts said IonQ’s roadmap is ambitious. Mastercard also commented. D-Wave Quantum and D-Wave were mentioned. The city of Chattanooga hosted it. Over a long time horizon, Horizon Europe funds research. Horizon…",
+   "url": "https://thequantuminsider.com/2026/11/21/__trashed-5/",
+   "date": "2026-11-21T21:45:27+00:00"
   },
   {
    "source": "qcr",
    "sourceName": "Quantum Computing Report",
-   "title": "Aalborg University Orders ConScience Plug’N’Teach Superconducting Quantum Computer for Hands-On Engineering Training",
-   "summary": "Aalborg University in Denmark is set to acquire a superconducting quantum computer from ConScience AB, a Swedish quantum hardware company. The Plug’N’Teach system, scheduled for installation in 2027, will initially feature two qubits, expanding to seven, and…",
-   "url": "https://quantumcomputingreport.com/aalborg-university-orders-conscience-plugnteach-superconducting-quantum-computer-for-hands-on-engineering-training/",
-   "date": "2026-11-20T16:29:30+00:00"
+   "title": "Sorbonne Université and Qubit Pharmaceuticals Introduce VULCAN Hybrid Framework for Scalable Quantum Chemistry",
+   "summary": "Sorbonne Université and Qubit Pharmaceuticals developed VULCAN, a hybrid quantum-classical framework for quantum chemistry that overcomes limitations of ADAPT-VQE. VULCAN achieves chemical accuracy with significantly fewer quantum resources by employing…",
+   "url": "https://quantumcomputingreport.com/sorbonne-universite-and-qubit-pharmaceuticals-introduce-vulcan-hybrid-framework-for-scalable-quantum-chemistry/",
+   "date": "2026-11-21T08:14:48+00:00"
   },
   {
    "source": "qcr",
    "sourceName": "Quantum Computing Report",
-   "title": "French National Quantum Strategy Backs €14M ($16M USD) Qubit Control 2030 Consortium to Scale Cryogenic Photonic Interconnects",
-   "summary": "The French National Quantum Strategy has invested €14 million in the Qubit Control 2030 (QC2030) consortium, led by VIQTHOR. This initiative aims to develop integrated control and readout systems for quantum computers, replacing traditional copper wiring with…",
-   "url": "https://quantumcomputingreport.com/french-national-quantum-strategy-backs-e14m-16m-usd-qubit-control-2030-consortium-to-scale-cryogenic-photonic-interconnects/",
-   "date": "2026-11-20T16:15:04+00:00"
+   "title": "Qubit Pharmaceuticals and Sorbonne Université Develop Polynomial-Time Lie Algebra Generator Pool Construction for Quantum Chemistry",
+   "summary": "Researchers from Qubit Pharmaceuticals and Sorbonne Université have developed a new method for quantum chemistry, introducing a polynomial-scaling algebraic framework to construct and verify Minimal Complete Pools (MCPs) for variational quantum eigensolvers…",
+   "url": "https://quantumcomputingreport.com/qubit-pharmaceuticals-and-sorbonne-universite-develop-polynomial-time-lie-algebra-generator-pool-construction-for-quantum-chemistry/",
+   "date": "2026-11-21T08:10:01+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Qubit Pharmaceuticals, Sorbonne Université, and Q-CTRL Demonstrate 3D Protein Hydration-Site Prediction on IBM Heron Processors",
+   "summary": "Researchers from Qubit Pharmaceuticals, Sorbonne Université, and Q-CTRL successfully demonstrated 3D protein hydration-site prediction on IBM Heron quantum processors, utilizing up to 123 qubits to identify optimal water placements in drug-target proteins.…",
+   "url": "https://quantumcomputingreport.com/qubit-pharmaceuticals-sorbonne-universite-and-q-ctrl-demonstrate-3d-protein-hydration-site-prediction-on-ibm-heron-processors/",
+   "date": "2026-11-21T08:00:26+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QuEra, Harvard, and UMD Researchers Develop Polynomial-Time Classical Benchmarking for Non-Clifford Fault-Tolerant Circuits",
+   "summary": "Researchers developed a polynomial-time Monte Carlo method for benchmarking fault-tolerant non-Clifford quantum circuits, which are essential for universal quantum computation. This method efficiently simulates complex circuits and evaluates logical fidelity…",
+   "url": "https://quantumcomputingreport.com/quera-harvard-and-umd-researchers-develop-polynomial-time-classical-benchmarking-for-non-clifford-fault-tolerant-circuits/",
+   "date": "2026-11-21T07:36:27+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Harvard, QuEra, and Caltech Design Single-Shot Magic State Factories for Quantum LDPC Codes with 10–40x Lower Overhead",
+   "summary": "Researchers from Harvard, QuEra, and Caltech have developed a new fault-tolerant quantum magic state factory architecture for qLDPC codes. This new design reduces space-time resource costs by 10x to 40x compared to existing methods. The factory utilizes 3D…",
+   "url": "https://quantumcomputingreport.com/harvard-quera-and-caltech-design-single-shot-magic-state-factories-for-quantum-ldpc-codes-with-10-40x-lower-overhead/",
+   "date": "2026-11-21T07:31:20+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QuEra Computing and NVIDIA Introduce PPVM Open-Source Digital-Twin Simulation Framework for Quantum Processors",
+   "summary": "QuEra Computing and NVIDIA have introduced PPVM, an open-source digital-twin simulation framework for quantum processors. PPVM unifies generalized stabilizer tableau simulation with Heisenberg-picture Pauli propagation, allowing for emulation of quantum…",
+   "url": "https://quantumcomputingreport.com/quera-computing-and-nvidia-introduce-ppvm-open-source-digital-twin-simulation-framework-for-quantum-processors/",
+   "date": "2026-11-21T07:19:44+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "University of Innsbruck, ParityQC, and QuEra Turn Rydberg Array Embeddings into Intrinsic Error-Correcting Codes",
+   "summary": "Researchers from the University of Innsbruck, ParityQC, and QuEra have discovered that auxiliary qubits used in neutral-atom processors for combinatorial optimization problems inherently form a classical error-correcting code. They developed a Cluster decoder…",
+   "url": "https://quantumcomputingreport.com/university-of-innsbruck-parityqc-and-quera-turn-rydberg-array-embeddings-into-intrinsic-error-correcting-codes/",
+   "date": "2026-11-21T07:16:02+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "University of California, San Diego, QuEra, and Collaborators Introduce Multi-Agent LLM Compiler Qubrio for Neutral-Atom Processors",
+   "summary": "Researchers have introduced Qubrio, a multi-agent LLM compiler for neutral-atom quantum circuits, which automates qubit placement, routing, and schedule optimization. Qubrio significantly outperforms existing compilers, demonstrating faster execution, higher…",
+   "url": "https://quantumcomputingreport.com/university-of-california-quera-and-collaborators-introduce-multi-agent-llm-compiler-qubrio-for-neutral-atom-processors/",
+   "date": "2026-11-21T07:12:42+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QuEra Computing and Lawrence Berkeley National Lab Observe Prethermal Dynamical Phase Transitions on 180 Qubits in Nature Study",
+   "summary": "Researchers observed prethermal dynamical phase transitions on up to 180 qubits using QuEra's Aquila quantum processor. The study, published in Nature, details three phenomena: Floquet-like prethermal steady states, resonant melting, and a first-order…",
+   "url": "https://quantumcomputingreport.com/quera-computing-and-lawrence-berkeley-national-lab-observe-prethermal-dynamical-phase-transitions-on-180-qubits-in-nature-study/",
+   "date": "2026-11-21T06:56:35+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Quantum Motion and NVIDIA Integrate CUDA-Q Backend into QUICHE for End-to-End Quantum Chemistry Workflows",
+   "summary": "Quantum Motion and NVIDIA have integrated CUDA-Q as a prototype backend into QUICHE, an open-source interface for quantum chemistry. This integration creates an end-to-end workflow, automating the process from classical molecular integral generation to…",
+   "url": "https://quantumcomputingreport.com/quantum-motion-and-nvidia-integrate-cuda-q-backend-into-quiche-for-end-to-end-quantum-chemistry-workflows/",
+   "date": "2026-11-21T06:25:58+00:00"
   },
   {
    "source": "tqi",
@@ -88,62 +152,6 @@
    "summary": "Guest Post Dr. Kris Naudts, Zeynep Koruturk, and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. Insurance is, at its core, the business of putting a price on uncertainty, and computationally…",
    "url": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
    "date": "2026-11-20T08:58:59+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "University of Amsterdam Awards €800,000 Across Four Quantum Simulation Projects for Chemistry and Materials Design",
-   "summary": "The University of Amsterdam (UvA) has launched the Q-SIM4MMD initiative, investing €800,000 across four quantum simulation projects. These projects aim to explore quantum simulation and machine learning for molecular and materials discovery, focusing on…",
-   "url": "https://quantumcomputingreport.com/university-of-amsterdam-awards-e800000-across-four-quantum-simulation-projects-for-chemistry-and-materials-design/",
-   "date": "2026-11-20T01:30:11+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "UCLA Researchers Model Collectively Enhanced Superconducting-Qubit Interfaces for Microwave-to-Optical Transduction",
-   "summary": "UCLA researchers have developed a theoretical model for enhancing microwave-to-optical quantum transduction using superconducting qubits. Their proposed architecture collectively couples multiple qubits to a shared optomechanical resonator, aiming to overcome…",
-   "url": "https://quantumcomputingreport.com/ucla-researchers-model-collectively-enhanced-superconducting-qubit-interfaces-for-microwave-to-optical-transduction/",
-   "date": "2026-11-20T01:19:13+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Researchers Introduce QECLean Framework to Formally Verify Quantum Error-Correcting Codes in Lean 4",
-   "summary": "Researchers have developed QECLean, an open-source framework using Lean 4 to formally verify quantum error-correcting codes, addressing the difficulty of verifying complex, algorithmically discovered codes. It has successfully verified parameters for several…",
-   "url": "https://quantumcomputingreport.com/researchers-introduce-qeclean-framework-to-formally-verify-quantum-error-correcting-codes-in-lean-4/",
-   "date": "2026-11-20T01:11:39+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "memQ and Infleqtion Sign MoU to Validate Quantum Networking Interoperability for Distributed Neutral-Atom Systems",
-   "summary": "memQ and Infleqtion have signed an MoU to validate interoperability between memQ’s quantum network architecture and Infleqtion’s quantum computing platform. This collaboration aims to enable modular multi-processor scaling by connecting separate quantum…",
-   "url": "https://quantumcomputingreport.com/memq-and-infleqtion-sign-mou-to-validate-quantum-networking-interoperability-for-distributed-neutral-atom-systems/",
-   "date": "2026-11-20T01:04:26+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Mastercard Launches Quantum Advisory Practice with QIZ Security and Releases PQC Readiness Whitepaper",
-   "summary": "Mastercard has launched a Quantum Advisory Practice with QIZ Security to help financial institutions transition to post-quantum cryptography, addressing immediate \"harvest now, decrypt later\" risks. This initiative, aligned with G7 and FS-ISAC guidance,…",
-   "url": "https://quantumcomputingreport.com/mastercard-launches-quantum-advisory-practice-with-qiz-security-and-releases-pqc-readiness-whitepaper/",
-   "date": "2026-11-20T00:58:59+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "BMO Demonstrates Quantum Utility in Game-Theoretic Machine Learning Feature Selection on IBM Nighthawk r2",
-   "summary": "BMO Financial Group, in collaboration with DUTH and IBM, has demonstrated a quantum machine learning feature-selection workflow on IBM quantum processors. They applied quantum game theory to identify high-value predictive variables in financial datasets,…",
-   "url": "https://quantumcomputingreport.com/bmo-demonstrates-quantum-utility-in-game-theoretic-machine-learning-feature-selection-on-ibm-nighthawk-r2/",
-   "date": "2026-11-20T00:36:52+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Google Quantum AI Demonstrates Measurement Contextuality Across 105 Qubits on Willow Processors",
-   "summary": "Google Quantum AI has demonstrated quantum measurement contextuality on 72-qubit and 105-qubit Willow processors, moving contextuality testing to large two-dimensional qubit arrays. This research, published in Science, establishes a hardware benchmark for…",
-   "url": "https://quantumcomputingreport.com/google-quantum-ai-demonstrates-measurement-contextuality-across-105-qubits-on-willow-processors/",
-   "date": "2026-11-20T00:22:47+00:00"
   },
   {
    "source": "tqi",
@@ -272,14 +280,6 @@
    "summary": "Fault-tolerant quantum computation requires a classical decoder fast enough to process syndrome measurements at the rate at which they are generated, and to return its decisions with low latency. This is most demanding for superconducting processors, whose…",
    "url": "http://arxiv.org/abs/2611.26447v1",
    "date": "2026-11-19T17:16:21Z"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Delta Gold Launches Dedicated Quantum Sensing Program",
-   "summary": "With new equipment funding at Penn State and the University of Toronto, Delta Gold Technologies has launched a dedicated quantum sensing program, allowing its gold nanoclusters to get to work on navigation and magnetic sensing while the quantum computing…",
-   "url": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
-   "date": "2026-11-19T17:12:49+00:00"
   },
   {
    "source": "arxiv-bio",
