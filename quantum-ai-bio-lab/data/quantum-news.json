@@ -1,6 +1,142 @@
 {
- "updated": "2026-11-27T03:56:00+00:00",
+ "updated": "2026-11-28T03:42:33+00:00",
  "items": [
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QuTech Launches Quantum Systems Integration Unit to Build Open-Architecture Superconducting Systems",
+   "summary": "QuTech has launched a new Quantum Systems Integration Unit to build open-architecture superconducting quantum computers using a European supply chain. The unit aims to standardize modular system interfaces and integrate various hardware and software…",
+   "url": "https://quantumcomputingreport.com/qutech-launches-quantum-systems-integration-unit-to-build-open-architecture-superconducting-systems/",
+   "date": "2026-11-28T03:13:18+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QuTech Coordinates €47.5 Million ($52 Million USD) European Quantum Internet Alliance Phase to Build Full-Stack Prototype",
+   "summary": "QuTech is coordinating the next 3.5-year phase of the Quantum Internet Alliance (QIA), backed by €47.5 million ($52 million USD) from the European Commission. The program will integrate quantum repeaters, integrated photonics, control electronics, and network…",
+   "url": "https://quantumcomputingreport.com/qutech-coordinates-e47-5-million-52-million-usd-european-quantum-internet-alliance-phase-to-build-full-stack-prototype/",
+   "date": "2026-11-28T02:40:53+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Dutch HAIQ Consortium Awarded €7.4 Million ($8.1 Million USD) NWO Grant to Combine Human Intuition and AI for Quantum Control and Circuit Optimization",
+   "summary": "The Dutch HAIQ Consortium, led by Leiden University, secured a €7.4 million NWO grant for a project combining human intuition and AI to optimize quantum control and circuits. The 28-partner initiative will use human-in-the-loop gamification and machine…",
+   "url": "https://quantumcomputingreport.com/dutch-haiq-consortium-awarded-e7-4-million-8-1-million-usd-nwo-grant-to-combine-human-intuition-and-ai-for-quantum-control-and-circuit-optimization/",
+   "date": "2026-11-28T02:33:50+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "TU Delft Demonstrates First Hybrid HPC-Quantum Workflow Linking DelftBlue Supercomputer and Tuna-17 Processor",
+   "summary": "TU Delft and QuTech have successfully linked the DelftBlue supercomputer with QuTech's Tuna-17 quantum processor, demonstrating the first hybrid HPC-quantum workflow. This integration was tested with an electrical power-flow calculation, utilizing the Quantum…",
+   "url": "https://quantumcomputingreport.com/tu-delft-demonstrates-first-hybrid-hpc-quantum-workflow-linking-delftblue-supercomputer-and-tuna-17-processor/",
+   "date": "2026-11-28T02:19:12+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QuTech and TU Delft Researchers Awarded ERC Synergy Grant to Co-Integrate Spin Qubits and Cryo-CMOS Electronics",
+   "summary": "QuTech and TU Delft researchers received a six-year ERC Synergy Grant for their UniQ project to scale semiconductor spin-qubit processors. The project aims to overcome wiring and control bottlenecks by co-integrating spin qubits and cryo-CMOS electronics,…",
+   "url": "https://quantumcomputingreport.com/qutech-and-tu-delft-researchers-awarded-erc-synergy-grant-to-co-integrate-spin-qubits-and-cryo-cmos-electronics/",
+   "date": "2026-11-28T02:12:48+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QuTech Demonstrates Coherent Control of a Majorana-Based Qubit in Coupled Kitaev Chains",
+   "summary": "Researchers at QuTech have successfully demonstrated coherent control of a Majorana-based qubit using coupled Kitaev chains. This qubit, fabricated in an indium antimonide nanowire, operates at 20 mK and exhibits Rabi frequencies of approximately 113-117 MHz.…",
+   "url": "https://quantumcomputingreport.com/qutech-demonstrates-coherent-control-of-a-majorana-based-qubit-in-coupled-kitaev-chains/",
+   "date": "2026-11-28T01:22:22+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "QUTAC and VDMA Release Practical Guide on Post-Quantum Cryptography for Industrial Systems",
+   "summary": "QUTAC and VDMA have released a practical guide for introducing Post-Quantum Cryptography (PQC) to industrial systems, addressing the long operational lifespans of industrial technology. The guide outlines a five-step framework for manufacturers to adopt PQC,…",
+   "url": "https://quantumcomputingreport.com/qutac-and-vdma-release-practical-guide-on-post-quantum-cryptography-for-industrial-systems/",
+   "date": "2026-11-28T01:08:46+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Kvantify Research Proves Optimal Clifford Quantum Circuit Synthesis Is NP-Complete",
+   "summary": "Kvantify's research proves that finding the minimum-gate implementation of a Clifford quantum circuit is NP-complete, even under practical hardware cost models. This necessitates the use of heuristic and approximate optimization strategies in scalable quantum…",
+   "url": "https://quantumcomputingreport.com/kvantify-research-proves-optimal-clifford-quantum-circuit-synthesis-is-np-complete/",
+   "date": "2026-11-28T01:01:33+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Who’s News: Strategic Appointments at IonQ and Quantum Art",
+   "summary": "IonQ has formed the IonQ Federal Advisory Board, composed of eight members, to advise on its strategy for U.S. defense and intelligence missions. Concurrently, Quantum Art has strengthened its global commercial team by appointing Mark Solomon as Head of U.S.…",
+   "url": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-ionq-and-quantum-art/",
+   "date": "2026-11-28T00:43:10+00:00"
+  },
+  {
+   "source": "qcr",
+   "sourceName": "Quantum Computing Report",
+   "title": "Equal1 and Qblox Selected for European Innovation Council STEP Scale Up Equity Program",
+   "summary": "Equal1 and Qblox have been selected by the European Innovation Council (EIC) for its STEP Scale Up program, entering the due-diligence phase for potential equity investments of up to €30 million each. This program aims to boost European deep-tech firms…",
+   "url": "https://quantumcomputingreport.com/equal1-and-qblox-selected-for-european-innovation-council-step-scale-up-equity-program/",
+   "date": "2026-11-28T00:15:16+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Quantum Computing 101: Can a Cat be Alive and Dead at The Same Time?",
+   "summary": "What is a qubit, why do quantum computers need to be colder than outer space, and what will they really be able to do? A plain-English guide to quantum computing, from Schrödinger’s cat to post-quantum cryptography.",
+   "url": "https://thequantuminsider.com/2026/11/27/quantum-computing-101-can-a-cat-be-alive-and-dead-at-the-same-time/",
+   "date": "2026-11-27T16:51:24+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Gyeonggi Province Holds Forum on Quantum and Semiconductor Industry Cooperation",
+   "summary": "Insider Brief PRESS RELEASE &#8212; The ‘Gyeonggi Quantum Innovation Forum and 2026 Gyeonggi Quantum-Semiconductor Convergence Industry Networking Day’, hosted by Gyeonggi Province and the Gyeonggi Business and Science Accelerator and organised by…",
+   "url": "https://thequantuminsider.com/2026/11/27/gyeonggi-province-quantum-industry-development-forum/",
+   "date": "2026-11-27T16:07:06+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Equal1 Selected to Advance in EIC STEP Scale Up Program For Potential Equity Investment of up to €30 Million",
+   "summary": "Insider Brief PRESS RELEASE &#8212; Equal1 today announced it has been selected to advance to the due-diligence phase with the European Innovation Council (EIC) Fund under the Strategic Technologies for Europe Platform (STEP) Scale Up program. The selection…",
+   "url": "https://thequantuminsider.com/2026/11/27/equal1-selected-to-advance-in-eic-step-scale-up-program-for-potential-equity-investment-of-up-to-e30-million/",
+   "date": "2026-11-27T15:13:24+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Guest Post: The Encryption Upgrade Needs a Backup Plan",
+   "summary": "Guest Post By Companies preparing for quantum computers may have to confront a threat that requires no quantum computer at all. For the operators of critical infrastructure, from electric utilities and water systems to hospitals and telecom networks, the…",
+   "url": "https://thequantuminsider.com/2026/11/27/encryption-upgrade-needs-backup-plan/",
+   "date": "2026-11-27T13:27:38+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Wellington Community Foundation Receives $20,000 Quantum Foundation Grant",
+   "summary": "Insider Brief The Wellington Community Foundation (WCF) received a $20,000 grant at the sixth annual Quantum in the Community Breakfast on Tuesday, Nov. 17, the Town-Crier reported. The foundation was one of the nonprofit organizations recognized at the…",
+   "url": "https://thequantuminsider.com/2026/11/27/wellington-community-foundation-20000-quantum-foundation-grant/",
+   "date": "2026-11-27T11:04:00+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Ethereum Plans Shift to Hash-Based Signatures for Post-Quantum Security",
+   "summary": "Insider Brief Ethereum&#8217;s core developers are preparing to phase out the elliptic-curve cryptography that secures the network and switch to hash-based signatures, a change meant to protect against attacks powered by quantum computers or by advances in…",
+   "url": "https://thequantuminsider.com/2026/11/27/ethereum-shift-hash-based-signatures-post-quantum-security/",
+   "date": "2026-11-27T10:51:41+00:00"
+  },
+  {
+   "source": "tqi",
+   "sourceName": "The Quantum Insider",
+   "title": "Bank of England Urges Firms to Move Faster on Quantum Security",
+   "summary": "Insider Brief The Bank of England urged financial firms with the greatest impact on the stability of the U.K. financial system to move faster than the national timetable for adopting quantum-resistant cryptography, warning that delays at a single technology…",
+   "url": "https://thequantuminsider.com/2026/11/27/bank-of-england-urges-firms-to-move-faster-on-quantum-security/",
+   "date": "2026-11-27T09:12:21+00:00"
+  },
   {
    "source": "tqi",
    "sourceName": "The Quantum Insider",
@@ -24,94 +160,6 @@
    "summary": "The European Commission proposed a Quantum Act yesterday to commercialize European quantum research, strengthen supply chains and coordinate the transition to post-quantum cryptography. The proposal would bring EU and national programs together to fund…",
    "url": "https://thequantuminsider.com/2026/11/26/european-quantum-community-reacts-to-new-quantum-strategy/",
    "date": "2026-11-26T09:40:04+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Global Investors to Explore Australia’s Quantum Industry at 2027 Conference",
-   "summary": "Insider Brief PRESS RELEASE &#8212; The foundation behind Ozempic and an early Canva backer are expected to join a growing lineup of international investment heavyweights heading to Sydney to scout Australia’s quantum industry for investment opportunities.…",
-   "url": "https://thequantuminsider.com/2026/11/26/global-investors-explore-australia-quantum-industry-2027-conference/",
-   "date": "2026-11-26T09:21:40+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Quantum eMotion Completes Acquisition of Plurilock Security",
-   "summary": "Insider Brief PRESS RELEASE &#8212; Quantum eMotion Corp. (NYSE American: QNC) (TSXV: QNC) (FSE: 34Q0) (“QeM”) and Plurilock Security Inc. (TSXV: PLUR &#124; OTCQB: PLCKF) (“Plurilock”) are pleased to announce the completion of their previously announced plan…",
-   "url": "https://thequantuminsider.com/2026/11/26/quantum-emotion-completes-acquisition-plurilock-security/",
-   "date": "2026-11-26T09:14:50+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Nordic Ministers Pledge Closer Cooperation on Quantum Research",
-   "summary": "Insider Brief Nordic education and research ministers pledged Thursday to work more closely on quantum research facilities, workforce training and commercialization in a bid to attract researchers, companies and investment to the region. The Nordic Council of…",
-   "url": "https://thequantuminsider.com/2026/11/26/nordic-ministers-pledge-closer-cooperation-on-quantum-research/",
-   "date": "2026-11-26T08:53:16+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Riverlane and Nature Research Intelligence Release 2026 Quantum Error Correction Report Highlighting Shift to Full-Stack Engineering",
-   "summary": "The Quantum Error Correction Report 2026 indicates a shift in the quantum computing industry from physics demonstrations to full-stack engineering of fault-tolerant machines. Key findings show significant growth in QEC research, patent activity, and public…",
-   "url": "https://quantumcomputingreport.com/riverlane-and-nature-research-intelligence-release-2026-quantum-error-correction-report-highlighting-shift-to-full-stack-engineering/",
-   "date": "2026-11-26T05:14:05+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Equal1, NVIDIA, and Dell Technologies Demonstrate Real-Time Hybrid Quantum-Classical Rack Integration at SC26",
-   "summary": "At SC26, Equal1, NVIDIA, and Dell Technologies showcased a real-time hybrid quantum-classical computing integration. They demonstrated Equal1's RacQ quantum computer integrated with Dell servers in a standard rack. This setup utilizes NVIDIA's software for…",
-   "url": "https://quantumcomputingreport.com/equal1-nvidia-and-dell-technologies-demonstrate-real-time-hybrid-quantum-classical-rack-integration-at-sc26/",
-   "date": "2026-11-26T04:48:05+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Classiq Updates Qmod Compiler to Synthesize 2048-Bit Shor’s Algorithm in Under 10 Seconds",
-   "summary": "Classiq has upgraded its Qmod quantum programming language and compiler, allowing the Shor's algorithm for a 2048-bit RSA-scale integer to compile in under ten seconds. The improvement addresses a bottleneck in quantum software by preserving classical control…",
-   "url": "https://quantumcomputingreport.com/classiq-updates-qmod-compiler-to-synthesize-2048-bit-shors-algorithm-in-under-10-seconds/",
-   "date": "2026-11-26T04:13:57+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "University of Sussex and Universal Quantum Demonstrate Laser-Free Axial-Mode Entangling Gate on Doppler-Cooled Trapped Ions",
-   "summary": "Researchers from the University of Sussex and Universal Quantum have demonstrated a high-fidelity, all-electronic two-qubit entangling gate using Doppler-cooled ytterbium ions. This laser-free gate operates on the axial stretch mode, achieving Bell-state…",
-   "url": "https://quantumcomputingreport.com/university-of-sussex-and-universal-quantum-demonstrate-laser-free-axial-mode-entangling-gate-on-doppler-cooled-trapped-ions/",
-   "date": "2026-11-26T03:58:16+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Quantum eMotion Completes C$32 Million ($22.5 Million USD) Acquisition of Cybersecurity Provider Plurilock Security",
-   "summary": "Quantum eMotion Corp. has completed its C$31.98 million acquisition of Plurilock Security Inc., a Canadian cybersecurity company. This strategic move combines Quantum eMotion's quantum cryptography with Plurilock's cybersecurity operations, enhancing their…",
-   "url": "https://quantumcomputingreport.com/quantum-emotion-completes-c32-million-22-5-million-usd-acquisition-of-cybersecurity-provider-plurilock-security/",
-   "date": "2026-11-26T03:53:09+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "European Commission Proposes EU Quantum Act and Sovereign Tech Equity Fund to Scale Industrial Capacity by 2030",
-   "summary": "The European Commission has proposed the EU Quantum Act, a legislative framework for quantum technologies, and a €50 billion Sovereign Tech Equity Fund to boost industrial capacity by 2030. This initiative aims to align national and EU programs, address the…",
-   "url": "https://quantumcomputingreport.com/european-commission-proposes-eu-quantum-act-and-sovereign-tech-equity-fund-to-scale-industrial-capacity-by-2030/",
-   "date": "2026-11-26T02:57:24+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "IQM Quantum Computers Sells 54-Qubit Radiance R3 System to South Korean Quantum-AI Infrastructure Firm QAI",
-   "summary": "IQM Quantum Computers sold a 54-qubit Radiance R3 system to QAI Co., Ltd. in South Korea for EUR 8-10 million. The quantum computer will be installed in QAI's AI data center in Seoul by the end of 2027, making it IQM's first deployment in a private commercial…",
-   "url": "https://quantumcomputingreport.com/iqm-quantum-computers-sells-54-qubit-radiance-r3-system-to-south-korean-quantum-ai-infrastructure-firm-qai/",
-   "date": "2026-11-26T02:18:06+00:00"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Zapata Quantum and University of Maryland Launch ForShor.ai Formal Verification Challenge for AI-Assisted Quantum Algorithm Design",
-   "summary": "Zapata Quantum and the University of Maryland have launched ForShor.ai, a formal verification challenge combining formal theorem proving with AI to optimize quantum factoring subroutines. The initiative invites researchers to submit recursive arithmetic…",
-   "url": "https://quantumcomputingreport.com/zapata-quantum-and-university-of-maryland-launch-forshor-ai-formal-verification-challenge-for-ai-assisted-quantum-algorithm-design/",
-   "date": "2026-11-26T02:05:25+00:00"
   },
   {
    "source": "arxiv",
@@ -218,14 +266,6 @@
    "date": "2026-11-25T18:25:45Z"
   },
   {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
-   "summary": "Insider Brief PRESS RELEASE &#8212; IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, is partnering with QAI Co., Ltd., a South Korean quantum-AI data center and cloud infrastructure company, to deliver an IQM…",
-   "url": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
-   "date": "2026-11-25T18:08:13+00:00"
-  },
-  {
    "source": "arxiv",
    "sourceName": "arXiv · quant-ph",
    "title": "$\\mathsf{AC}^0 \\not\\subseteq \\mathsf{BQAC}^0/\\mathsf{qpoly}$ via Sublinear-Degree Pauli Approximation",
@@ -242,14 +282,6 @@
    "date": "2026-11-25T17:46:59Z"
   },
   {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "QuIC Welcomes the European Quantum Act, Pledges to ‘Mobilize Industry’",
-   "summary": "Insider Brief PRESS RELEASE &#8212; The European Quantum Industry Consortium (QuIC) welcomes the publication of the European Commission&#8217;s proposal for the European Quantum Act, marking a significant milestone in Europe&#8217;s ambition to establish…",
-   "url": "https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/",
-   "date": "2026-11-25T14:05:24+00:00"
-  },
-  {
    "source": "arxiv-bio",
    "sourceName": "arXiv · 양자 바이오",
    "title": "Quantum Algorithm for Direct Estimation of Energy-Level Differences via Quantum Dynamics Simulation",
@@ -258,36 +290,12 @@
    "date": "2026-11-25T12:27:31Z"
   },
   {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links",
-   "summary": "Guest Post by Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo Prof. Irit Hadar, Dean, Faculty of Computer and Information Science &#38; Director, Center for Cyber,…",
-   "url": "https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/",
-   "date": "2026-11-25T12:27:15+00:00"
-  },
-  {
-   "source": "tqi",
-   "sourceName": "The Quantum Insider",
-   "title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
-   "summary": "Insider Brief PRESS RELEASE &#8212; The European Commission today proposed the Quantum Act, a new framework to help turn Europe&#8217;s quantum research into products and services, strengthen supply chains and prepare Europe&#8217;s digital systems for…",
-   "url": "https://thequantuminsider.com/2026/11/25/european-commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund/",
-   "date": "2026-11-25T11:01:30+00:00"
-  },
-  {
    "source": "arxiv-bio",
    "sourceName": "arXiv · 양자 바이오",
    "title": "TyxonQ: A Workflow Layer for Quantum Computing in Chemistry",
    "summary": "Quantum computational chemistry is often framed around a hybrid quantum solver. In practical applications, however, bottlenecks to adoption also lie in the surrounding multiscale workflow. A molecular problem may combine classical molecular mechanics and…",
    "url": "http://arxiv.org/abs/2611.33883v1",
    "date": "2026-11-25T06:58:52Z"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "Forschungszentrum Jülich and ARQUE Systems Secure €35 Million ($38.4 Million USD) to Build 200-Qubit Silicon Spin Quantum Computer",
-   "summary": "Forschungszentrum Jülich and ARQUE Systems have launched Q-STAR.NRW, a €35 million initiative to build a 200-qubit silicon spin quantum computer by the end of 2029. This project, primarily funded by German federal funds, will integrate the quantum computer…",
-   "url": "https://quantumcomputingreport.com/forschungszentrum-julich-and-arque-systems-secure-e35-million-38-4-million-usd-to-build-200-qubit-silicon-spin-quantum-computer/",
-   "date": "2026-11-24T23:05:25+00:00"
   },
   {
    "source": "arxiv-bio",
@@ -304,14 +312,6 @@
    "summary": "Nitrogen is essential in agricultural fertilizers, yet its nanoscale interfacial dynamics remain largely unexplored. Although quadrupolar broadening complicates $^{14}$N nuclear magnetic resonance (NMR) detection, $^{15}$N (I=1/2) provides well-defined…",
    "url": "http://arxiv.org/abs/2611.33360v1",
    "date": "2026-11-24T19:48:53Z"
-  },
-  {
-   "source": "qcr",
-   "sourceName": "Quantum Computing Report",
-   "title": "IonQ Advances Quantum-Assured Navigation and Timing with DARPA Airborne Gravimeter Award and 51-Day Maritime Clock Trial",
-   "summary": "IonQ's Vector Atomic subsidiary has made significant strides in quantum sensing for navigation and timing. They received a DARPA award to develop an airborne quantum gravimeter and successfully completed a 51-day maritime trial of their Evergreen-30 optical…",
-   "url": "https://quantumcomputingreport.com/ionq-advances-quantum-assured-navigation-and-timing-with-darpa-airborne-gravimeter-award-and-51-day-maritime-clock-trial/",
-   "date": "2026-11-24T18:02:01+00:00"
   },
   {
    "source": "arxiv-bio",
